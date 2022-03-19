@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 17/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [José Luís](https://github.com/joseluis-rt) |
 | 17/03/2022 |  0.2   | Adição de imagens|  [José Luís](https://github.com/joseluis-rt) |
+| 17/03/2022 |  0.2   | Lorenzo Santos|  [Lorenzo Santos](https://github.com/lorenzo7377) |
 
 
 

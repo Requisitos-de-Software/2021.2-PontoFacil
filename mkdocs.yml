@@ -74,13 +74,12 @@ nav:
 
   - Análise:
       - Verificação:
-          - Verificação: analise/verificacao/verificacao.md
-          - NFR Framework: analise/verificacao/nfr_framework.md
-          - Rich Picture: analise/verificacao/rich_picture.md
-          - Backlog: analise/verificacao/backlog.md
-          - Casos de Uso: analise/verificacao/casos_de_uso.md
-          - Cenários: analise/verificacao/cenarios.md
-          - Léxicos: analise/verificacao/lexicos.md
+          - Verificação NFR Framework: analise/verificacao/nfr_framework.md
+          - Verificação Rich Picture: analise/verificacao/ver_rich_picture.md
+          - Verificação Backlog: analise/verificacao/backlog.md
+          - Verificação Casos de Uso: analise/verificacao/casos_de_uso.md
+          - Verificação Cenários: analise/verificacao/cenarios.md
+          - Verificação Léxicos: analise/verificacao/lexicos.md
       - Validação:
           - Prototipação: analise/validacao/prototipacao.md
   - Pós-rastreabilidade:

@@ -2,13 +2,14 @@
 | -- | -- | -- | -- |
 | 20/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 | 20/03/2022 |  0.2   | Adição de imagens|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
+| 21/03/2022 |  0.3   | Revisão |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
 
 ## 1. Introdução
 
-<p style="text-align: justify"> O objetivo deste documento é a verificação de possíveis erros no Backlog do projeto. É possível encontrar o Backlog do projeto a partir do menu lateral (Modelagem --> Backlog --> Backlog do produto) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/backlog/).</p>
+ O objetivo deste documento é a verificação de possíveis erros no Backlog do projeto. É possível encontrar o Backlog do projeto a partir do menu lateral (Modelagem --> Backlog --> Backlog do produto) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2PontoFacil/modelagem/backlog/backlog/).
 
 
 

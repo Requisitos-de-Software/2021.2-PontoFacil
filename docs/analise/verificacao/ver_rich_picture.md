@@ -6,7 +6,7 @@
 | -- | -- | -- | -- |
 | 17/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [José Luís](https://github.com/joseluis-rt) |
 | 17/03/2022 |  0.2   | Adição de imagens|  [José Luís](https://github.com/joseluis-rt) |
-| 17/03/2022 |  0.2   | Lorenzo Santos|  [Lorenzo Santos](https://github.com/lorenzo7377) |
+| 17/03/2022 |  0.3   | Revisão |  [Lorenzo Santos](https://github.com/lorenzo7377) |
 
 
 
@@ -23,10 +23,10 @@
 ### Possíveis Erros
 
 <center>
-
+<figcaption>Figura 1: Possíveis Erros.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_PossiveisErros.jpg"></p><br>
 
-<figcaption>Imagem 1: Possíveis Erros. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 
@@ -35,10 +35,10 @@
 ### Checklist
 
 <center>
-
+<figcaption>Figura 2: Checklist.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_rich_picture_resultado.jpg"></p><br>
 
-<figcaption>Imagem 1: Checklist. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 
@@ -47,10 +47,10 @@
 ### Gráfico
 
 <center>
-
+<figcaption>Figura 3: Gráfico Resultado Rich Picture. Fonte: Elaborado pelos autores.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_rich_picture_grafico.png"></p><br>
 
-<figcaption>Imagem 1: Gráfico Resultado Rich Picture. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 

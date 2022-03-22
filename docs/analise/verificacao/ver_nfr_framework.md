@@ -5,6 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Kayro César](https://github.com/kayrocesar) |
+| 22/03/2022 |  0.2   | Revisão |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
 
@@ -23,13 +24,13 @@
 
 <center>
 
-<figcaption>Figura 1: Possíveis Erros </figcaption>
+<figcaption>Figura 1: Possíveis Erros. </figcaption>
 
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_PossiveisErros.jpg"></p><br>
 
 
 
-<figcaption>Fonte: Elaborado pelos autores</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 
@@ -39,9 +40,9 @@
 
 <center>
 
-<figcaption>Figura 2: Checklist do NFR Framework</figcaption>
+<figcaption>Figura 2: Checklist do NFR Framework.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_NFR_Framework/docs/assets/imagens/ver_nfr_resultado.PNG"></p><br>
-<figcaption>Fonte: Elaborado pelos autores</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 
@@ -50,10 +51,10 @@
 ### 2.3  Gráfico
 
 <center>
-<figcaption>Figura 3: Gráfico de verificação NFR Framework</figcaption>
+<figcaption>Figura 3: Gráfico de verificação NFR Framework.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_NFR_Framework/docs/assets/imagens/ver_nfr_framework_grafico.PNG"></p><br>
 
-<figcaption>Fonte: Elaborado pelos autores</figcaption>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 

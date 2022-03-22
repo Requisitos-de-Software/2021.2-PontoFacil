@@ -74,7 +74,8 @@ nav:
 
   - Análise:
       - Verificação:
-          - Verificação NFR Framework: analise/verificacao/nfr_framework.md
+          - Verificação NFR Framework: analise/verificacao/ver_nfr_framework.md
+          - Verificação MoSCoW: analise/verificacao/ver_moscow.md
           - Verificação Rich Picture: analise/verificacao/ver_rich_picture.md
           - Verificação Backlog: analise/verificacao/backlog.md
           - Verificação Casos de Uso: analise/verificacao/casos_de_uso.md

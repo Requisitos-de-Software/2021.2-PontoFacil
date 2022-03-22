@@ -2,7 +2,7 @@
 | -- | -- | -- | -- |
 | 20/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 | 20/03/2022 |  0.2   | Adição de imagens|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
-
+| 22/03/2022 |  0.3   | Revisão do documento|  [Kayro César](https://github.com/kayrocesar) |
 
 
 

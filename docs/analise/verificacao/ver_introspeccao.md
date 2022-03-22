@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
 | 22/03/2022 |  0.2   | Adição de Imagens |  [José Luís](https://github.com/joseluis-rt) |
+| 22/03/2022 |  0.3   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar) |
 
 
 

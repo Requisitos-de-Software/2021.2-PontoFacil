@@ -81,6 +81,7 @@ nav:
           - Verificação Casos de Uso: analise/verificacao/casos_de_uso.md
           - Verificação Cenários: analise/verificacao/cenarios.md
           - Verificação Léxicos: analise/verificacao/lexicos.md
+          - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
       - Validação:
           - Prototipação: analise/validacao/prototipacao.md
   - Pós-rastreabilidade:

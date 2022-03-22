@@ -4,7 +4,8 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 21/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [José Luís](https://github.com/joseluis-rt) |
+| 21/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
+| 21/03/2022 |  0.1   | Adição de Imagens |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
@@ -45,7 +46,7 @@
 ### Gráfico
 
 <center>
-<figcaption>Figura 3: Gráfico Resultado Rich Picture. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Figura 3: Gráfico Resultado da Verificação da Observação. Fonte: Elaborado pelos autores.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_grafico.png"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>

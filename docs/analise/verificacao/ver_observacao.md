@@ -34,7 +34,7 @@
 
 <center>
 <figcaption>Figura 2: Checklist.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_rich_picture_resultado.jpg"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_resultado.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -46,7 +46,7 @@
 
 <center>
 <figcaption>Figura 3: Gráfico Resultado Rich Picture. Fonte: Elaborado pelos autores.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_rich_picture_grafico.png"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_grafico.png"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

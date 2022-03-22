@@ -5,6 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
+| 22/03/2022 |  0.2   | Adição de Imagens |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
@@ -34,7 +35,7 @@
 
 <center>
 <figcaption>Figura 2: Checklist.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_resultado.jpg"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_introspeccao_resultado.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -46,7 +47,7 @@
 
 <center>
 <figcaption>Figura 3: Gráfico Resultado da Verificação da Observação. Fonte: Elaborado pelos autores.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_grafico.jpg"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_introspeccao_grafico.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

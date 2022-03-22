@@ -17,7 +17,7 @@
 
 ## 2. Metodologia
 
-<p style="text-align: justify"> Por meio de um checklist (lista de controle) e a partir da definição de alguns possíveis defeitos foi possível analisar a Observação feita com um certo fundamento.</p>
+<p style="text-align: justify"> Por meio de um checklist (lista de controle) e a partir da definição de alguns possíveis defeitos foi possível analisar a Introspecção feita com um certo fundamento.</p>
 
 ### Possíveis Erros
 
@@ -46,7 +46,7 @@
 ### Gráfico
 
 <center>
-<figcaption>Figura 3: Gráfico Resultado da Verificação da Observação. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Figura 3: Gráfico Resultado da Verificação da Introspecção. Fonte: Elaborado pelos autores.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_introspeccao_grafico.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>

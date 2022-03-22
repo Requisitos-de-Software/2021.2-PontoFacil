@@ -4,7 +4,7 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 20/03/2022 |  0.1   | Criação do documento e elaboração do texto|  [Kayro César](https://github.com/kayrocesar) |
+| 22/03/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Kayro César](https://github.com/kayrocesar) |
 
 
 
@@ -39,9 +39,9 @@
 
 <center>
 
-<p align = "center"><img src=""></p><br>
-
-<figcaption>Imagem 1: Checklist. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Figura 2: Checklist do NFR Framework</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_NFR_Framework/docs/assets/imagens/ver_nfr_resultado.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores</figcaption>
 
 </center>
 
@@ -50,10 +50,10 @@
 ### 2.3  Gráfico
 
 <center>
+<figcaption>Figura 3: Gráfico de verificação NFR Framework</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_NFR_Framework/docs/assets/imagens/ver_nfr_framework_grafico.PNG"></p><br>
 
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_rich_picture_grafico.png"></p><br>
-
-<figcaption>Imagem 1: Gráfico Resultado Rich Picture. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Fonte: Elaborado pelos autores</figcaption>
 
 </center>
 
@@ -61,7 +61,15 @@
 
 ## 3. Conclusão
 
-<p style="text-align: justify"> Faltou representar contribuição em alguns elementos do NFR geral, usabilidade e suportabilidade.  </p>
+<p style="text-align: justify">A partir da inspeção, utilizando o checklist, foram identificados alguns problemas no documento de NFR Framework. Os problemas identificados foram: </p>
+<ul>
+
+ <li>Faltou representar as contribuições do tipo 'AND ' e 'OR' em alguns elementos do NFR geral, NFR de usabilidade e NFR de suportabilidade. </li>
+ 
+ <li>Faltou representar a propagação de impactos no NFR Geral. </li>
+
+ <li>O NFR Geral poderia ser representado de maneira expandida</li>
+</ul>
 
 
 ## 4. Referências

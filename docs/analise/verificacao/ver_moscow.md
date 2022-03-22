@@ -40,7 +40,7 @@
 <center>
 
 <figcaption>Figura 2: Checklist da priorização MoSCoW </figcaption>
-<p align = "center"><img src=""></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_moscow/docs/assets/imagens/ver_moscow_resultado.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores</figcaption>
 
 </center>
@@ -51,7 +51,7 @@
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação da priorização MoSCoW </figcaption>
-<p align = "center"><img src=""></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/ver_moscow/docs/assets/imagens/ver_moscow_grafico.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores</figcaption>
 
@@ -68,4 +68,3 @@
 ## 4. Referências
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 17 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
-> [Documento de RichPicture do grupo habitica](https://requisitos-habitica.netlify.app/VerificacaoRP)

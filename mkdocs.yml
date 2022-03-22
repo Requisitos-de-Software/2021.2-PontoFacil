@@ -74,6 +74,7 @@ nav:
 
   - Análise:
       - Verificação:
+          - Verificação 5w2h: analise/verificacao/ver_5w2h.md
           - Verificação NFR Framework: analise/verificacao/ver_nfr_framework.md
           - Verificação MoSCoW: analise/verificacao/ver_moscow.md
           - Verificação Rich Picture: analise/verificacao/ver_rich_picture.md
@@ -82,6 +83,8 @@ nav:
           - Verificação Cenários: analise/verificacao/cenarios.md
           - Verificação Léxicos: analise/verificacao/lexicos.md
           - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
+          - Verificação Brainstorming: analise/verificacao/ver_brainstorming.md
+          - Verificação Questionário: analise/verificacao/ver_questionario.md
       - Validação:
           - Prototipação: analise/validacao/prototipacao.md
   - Pós-rastreabilidade:

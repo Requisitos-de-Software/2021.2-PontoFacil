@@ -13,7 +13,7 @@
 
 <p style="text-align: justify"> O objetivo desse documento é verificar possíveis erros no documento de Introspecção do projeto.</p>
 
-É possível encontrar o documento sobre oIntrospecção a partir do menu lateral (Elicitação --> Técnicas --> Introspecção) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/).
+É possível encontrar o documento sobre a Introspecção a partir do menu lateral (Elicitação --> Técnicas --> Introspecção) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/).
 
 ## 2. Metodologia
 

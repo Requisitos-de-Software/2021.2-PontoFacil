@@ -48,7 +48,7 @@
 
 <center>
 <figcaption>Figura 3: Gráfico Resultado da Verificação da Observação. Fonte: Elaborado pelos autores.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_grafico.png"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_observacao_grafico.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

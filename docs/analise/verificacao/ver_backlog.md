@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
- O objetivo deste documento é a verificação de possíveis erros no Backlog do projeto. É possível encontrar o Backlog do projeto a partir do menu lateral (Modelagem --> Backlog --> Backlog do produto) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2PontoFacil/modelagem/backlog/backlog/).
+ O objetivo deste documento é a verificação de possíveis erros no Backlog do projeto. É possível encontrar o Backlog do projeto a partir do menu lateral (Modelagem --> Backlog --> Backlog do produto) ou clicando [aqui](https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/backlog/).
 
 
 

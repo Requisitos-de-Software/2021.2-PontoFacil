@@ -5,7 +5,7 @@ theme:
     primary: blue
   logo: assets/logos/ponto_facil.png
   favicon: assets/logos/ponto_facil.png
-  language: 'pt'
+  language: "pt"
   features:
     - navigation.instant
 
@@ -36,41 +36,41 @@ nav:
       - Backlog:
           - Backlog do produto: modelagem/backlog/backlog.md
           - User Stories:
-            - US01: modelagem/backlog/userstories/us01.md
-            - US02: modelagem/backlog/userstories/us02.md
-            - US03: modelagem/backlog/userstories/us03.md
-            - US04: modelagem/backlog/userstories/us04.md
-            - US05: modelagem/backlog/userstories/us05.md
-            - US06: modelagem/backlog/userstories/us06.md
-            - US07: modelagem/backlog/userstories/us07.md
-            - US08: modelagem/backlog/userstories/us08.md
-            - US09: modelagem/backlog/userstories/us09.md
-            - US10: modelagem/backlog/userstories/us10.md
-            - US11: modelagem/backlog/userstories/us11.md
-            - US12: modelagem/backlog/userstories/us12.md
-            - US13: modelagem/backlog/userstories/us13.md
-            - US14: modelagem/backlog/userstories/us14.md
-            - US15: modelagem/backlog/userstories/us15.md
-            - US16: modelagem/backlog/userstories/us16.md
-            - US17: modelagem/backlog/userstories/us17.md
-            - US18: modelagem/backlog/userstories/us18.md
-            - US19: modelagem/backlog/userstories/us19.md
-            - US20: modelagem/backlog/userstories/us20.md
-            - US21: modelagem/backlog/userstories/us21.md
-            - US22: modelagem/backlog/userstories/us22.md
-            - US23: modelagem/backlog/userstories/us23.md
-            - US24: modelagem/backlog/userstories/us24.md
-            - US25: modelagem/backlog/userstories/us25.md
-            - US26: modelagem/backlog/userstories/us26.md
-            - US27: modelagem/backlog/userstories/us27.md
-            - US28: modelagem/backlog/userstories/us28.md
-            - US29: modelagem/backlog/userstories/us29.md
-            - US30: modelagem/backlog/userstories/us30.md
-            - US31: modelagem/backlog/userstories/us31.md
-            - US32: modelagem/backlog/userstories/us32.md
-            - US33: modelagem/backlog/userstories/us33.md
-            - US34: modelagem/backlog/userstories/us34.md
-            - US35: modelagem/backlog/userstories/us35.md
+              - US01: modelagem/backlog/userstories/us01.md
+              - US02: modelagem/backlog/userstories/us02.md
+              - US03: modelagem/backlog/userstories/us03.md
+              - US04: modelagem/backlog/userstories/us04.md
+              - US05: modelagem/backlog/userstories/us05.md
+              - US06: modelagem/backlog/userstories/us06.md
+              - US07: modelagem/backlog/userstories/us07.md
+              - US08: modelagem/backlog/userstories/us08.md
+              - US09: modelagem/backlog/userstories/us09.md
+              - US10: modelagem/backlog/userstories/us10.md
+              - US11: modelagem/backlog/userstories/us11.md
+              - US12: modelagem/backlog/userstories/us12.md
+              - US13: modelagem/backlog/userstories/us13.md
+              - US14: modelagem/backlog/userstories/us14.md
+              - US15: modelagem/backlog/userstories/us15.md
+              - US16: modelagem/backlog/userstories/us16.md
+              - US17: modelagem/backlog/userstories/us17.md
+              - US18: modelagem/backlog/userstories/us18.md
+              - US19: modelagem/backlog/userstories/us19.md
+              - US20: modelagem/backlog/userstories/us20.md
+              - US21: modelagem/backlog/userstories/us21.md
+              - US22: modelagem/backlog/userstories/us22.md
+              - US23: modelagem/backlog/userstories/us23.md
+              - US24: modelagem/backlog/userstories/us24.md
+              - US25: modelagem/backlog/userstories/us25.md
+              - US26: modelagem/backlog/userstories/us26.md
+              - US27: modelagem/backlog/userstories/us27.md
+              - US28: modelagem/backlog/userstories/us28.md
+              - US29: modelagem/backlog/userstories/us29.md
+              - US30: modelagem/backlog/userstories/us30.md
+              - US31: modelagem/backlog/userstories/us31.md
+              - US32: modelagem/backlog/userstories/us32.md
+              - US33: modelagem/backlog/userstories/us33.md
+              - US34: modelagem/backlog/userstories/us34.md
+              - US35: modelagem/backlog/userstories/us35.md
 
   - Análise:
       - Verificação:
@@ -78,14 +78,15 @@ nav:
           - Verificação NFR Framework: analise/verificacao/ver_nfr_framework.md
           - Verificação MoSCoW: analise/verificacao/ver_moscow.md
           - Verificação Rich Picture: analise/verificacao/ver_rich_picture.md
-          - Verificação Backlog: analise/verificacao/backlog.md
+          - Verificação Backlog: analise/verificacao/ver_backlog.md
           - Verificação Casos de Uso: analise/verificacao/casos_de_uso.md
           - Verificação Cenários: analise/verificacao/cenarios.md
-          - Verificação Léxicos: analise/verificacao/lexicos.md
+          - Verificação Léxicos: analise/verificacao/ver_lexicos.md
           - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
           - Verificação Brainstorming: analise/verificacao/ver_brainstorming.md
           - Verificação Questionário: analise/verificacao/ver_questionario.md
-      - Validação: analise/validacao/validacao.md
+      - Validação:
+          - Prototipação: analise/validacao/prototipacao.md
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md
       - Foward-from: pos_rastreabilidade/forward_from.md
@@ -104,3 +105,4 @@ nav:
       - 17/02/2022: atas/17022022.md
       - 24/02/2022: atas/24022022.md
       - 03/03/2022: atas/03032022.md
+

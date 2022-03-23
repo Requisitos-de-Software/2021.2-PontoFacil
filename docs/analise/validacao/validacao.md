@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e introdução |  [Kayro César](https://github.com/kayrocesar) |
 | 22/03/2022|  0.2  | Metodologia e protótipo | [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr) |
+| 23/03/2022 |  0.3   | Revisão |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
@@ -17,7 +18,7 @@
 
 ## 2. Metodologia
 
-<p style="text-align: justify">A prototipação é baseada na idéia de que podemos validar os requisitos/especificações com base nas expectativas do usuário. Ela é proposta com o objetivo de obter uma retroalimentação do universo de informações e pode ser apresentada em linguagem de alto nível ou em linguagens de especificação executáveis. </p>
+<p style="text-align: justify">A prototipação é baseada na ideia de que podemos validar os requisitos/especificações com base nas expectativas do usuário. Ela é proposta com o objetivo de obter uma retroalimentação do universo de informações e pode ser apresentada em linguagem de alto nível ou em linguagens de especificação executáveis. </p>
 
 <p style="text-align: justify">
  Construímos um protótipo que representa alguns dos requisitos elicitados no projeto. A escolha dos requisitos foi baseada na prioridade de cada um, os do tipo "must" e "should" representam a maioria deles.
@@ -27,6 +28,7 @@
 
  <center>
 <figcaption>Tabela 1: Requisitos presentes no protótipo </figcaption>
+   
 |Identificação | Requisito | Prioridade |
 | :--: | :--: | :--: |
 | [RF01](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)  | O usuário deve ser capaz de registrar o ponto de entrada | Must |

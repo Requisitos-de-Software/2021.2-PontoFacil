@@ -47,7 +47,7 @@
 ### Gráfico
 
 <center>
-<figcaption>Figura 3: Gráfico Resultado da Verificação da Introspecção. Fonte: Elaborado pelos autores.</figcaption>
+<figcaption>Figura 3: Gráfico Resultado da Verificação da Introspecção.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_introspeccao_grafico.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>

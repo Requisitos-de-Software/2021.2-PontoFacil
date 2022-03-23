@@ -85,8 +85,7 @@ nav:
           - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
           - Verificação Brainstorming: analise/verificacao/ver_brainstorming.md
           - Verificação Questionário: analise/verificacao/ver_questionario.md
-      - Validação:
-          - Prototipação: analise/validacao/prototipacao.md
+      - Validação: analise/validacao/validacao.md
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md
       - Foward-from: pos_rastreabilidade/forward_from.md
@@ -105,3 +104,4 @@ nav:
       - 17/02/2022: atas/17022022.md
       - 24/02/2022: atas/24022022.md
       - 03/03/2022: atas/03032022.md
+

@@ -5,6 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Eduardo Maia Rezende](https://github.com/eduardomr) |
+| 22/03/2022 |  0.2   | Revisão |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
 

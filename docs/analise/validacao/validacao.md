@@ -4,8 +4,8 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 22/03/2022 |  0.1   | Criação do documento, introdução e metodologia|  [Kayro César](https://github.com/kayrocesar) |
-| |    |  |  [](https://github.com/) |
+| 22/03/2022 |  0.1   | Criação do documento e introdução |  [Kayro César](https://github.com/kayrocesar) |
+| 22/03/2022|  0.2  | Metodologia e protótipo | [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
@@ -21,7 +21,7 @@
 
 <p style="text-align: justify">
  Construímos um protótipo que representa alguns dos requisitos elicitados no projeto. A escolha dos requisitos foi baseada na prioridade de cada um, os do tipo "must" e "should" representam a maioria deles.
-   A tabela abaixo mostra os requisitos utilizados:
+   A tabela 1 mostra os requisitos presentes no protótipo:
  </p>
  <br>
 

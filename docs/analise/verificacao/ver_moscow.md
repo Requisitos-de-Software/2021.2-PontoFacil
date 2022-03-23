@@ -5,6 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Kayro César](https://github.com/kayrocesar) |
+| 22/03/2022 | 0.2 | Revisão| [Eduardo Maia](https://github.com/eduardomr) |
 
 
 

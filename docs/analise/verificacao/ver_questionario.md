@@ -52,7 +52,7 @@
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação questionário.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_qustionario_grafico.png"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_questionario_grafico.png"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

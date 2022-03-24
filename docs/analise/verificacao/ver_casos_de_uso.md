@@ -17,17 +17,118 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ## 2. Metodologia
 <p style="text-align: justify">Será utilizada a técnica de inspeção no documento de personas, analisando a presença de algumas características vitais através de uma checklist.</p>
 
+## 3. Metodologia
+### 3.1 Cenário 01
 |Item | Resposta | 
 | -- | -- |
-| As descrições das personas estão escritas de forma correta e clara? |  Sim  | 
-| O tipo da persona está claro (Primária, Secundária e Anti-Persona)? | Sim |
-| Os motivos da persona estão claros? | Sim |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+
+<br>
+
+### 3.1 Cenário 02
+|Item | Resposta | 
+| -- | -- |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+<br>
+
+### 3.1 Cenário 03
+|Item | Resposta | 
+| -- | -- |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
 | Os objetivos das personas estão claros? | Sim |
-| As expectativas estão claras? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
 
-## 3. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que as princiáis características das personas estão o documento.</p>
+<br>
 
-## 4. Referências
+### 3.1 Cenário 04
+|Item | Resposta | 
+| -- | -- |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+
+<br>
+
+### 3.1 Cenário 05
+|Item | Resposta | 
+| -- | -- |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+
+<br>
+
+### 3.1 Cenário 06
+|Item | Resposta | 
+| -- | -- |
+| O título está bem escrito? |  Sim  | 
+| O objetivo é claro? | Sim |
+|Dentro do contexto, há pós-condição?|	Sim
+|Dentro do contexto, há pré-condição?|	Sim
+|O contexto está coerente com o objetivo?|	Sim
+|Os atores foram citados de forma correta?|	Sim
+|Os recursos foram listados de maneira coerente?|	Sim
+|Os episódios estão listados de forma correta e organizada?|	Sim
+|O cenário possui restrições?|	Sim
+|As restrições estão escritas de maneira que facilite a compreensão?|	Não
+|As exceções estão bem organizadas e bem escritas?|	Sim
+|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+
+<br>
+
+## 4. Conclusão
+<p style="text-align: justify">A partir do checklist, podemos perceber que as principais características das personas estão o documento.</p>
+
+## 5. Referências
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 17 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

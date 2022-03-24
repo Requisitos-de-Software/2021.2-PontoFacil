@@ -26,7 +26,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 | As expectativas estão claras? | Sim |
 
 ## 3. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que as princiáis características das personas estão o documento.</p>
+<p style="text-align: justify">A partir do checklist, podemos perceber que as principais características das personas estão o documento.</p>
 
 ## 4. Referências
 

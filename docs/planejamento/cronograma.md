@@ -23,7 +23,7 @@
 | II    | Elicitação | 06/02 ~ 20/02 | Técnicas e Priorização | 20/02 |  [Ata 3](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/10022022/) |
 | III    | Modelagem de Requisitos | 20/02 ~ 06/03 | Cenários, Léxico, Casos de Uso e Especificação Suplementar | 06/03 | [Ata 4](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/17022022/) e [Ata 5](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/24022022/) |
 | IV    | Modelagem de Requisitos - Ágil | 23/02 ~ 09/03 | Histórias de Usuário, Backlog e NFR Framework | 09/03 | [Ata 6](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/03032022/) |
-| V    | Análise de Requisitos | 09/03 ~ 23/03 | Verificação & Validação | 23/03 |Definir |
+| V    | Análise de Requisitos | 09/03 ~ 23/03 | Verificação & Validação | 23/03 | [Ata 7](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/10032022.md) |
 | VI    | Pós-Rastreabilidade | 23/03 ~ 03/04 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 03/04 | Definir |
 | VII    | Apresentação final | 03/04 ~ 25/04 | Conclusão do projeto | 25/04 | Definir |
 

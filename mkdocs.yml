@@ -85,7 +85,7 @@ nav:
           - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
           - Verificação Brainstorming: analise/verificacao/ver_brainstorming.md
           - Verificação Questionário: analise/verificacao/ver_questionario.md
-          - Verificação Questionário: analise/verificacao/ver_observacao.md
+          - Verificação Observação: analise/verificacao/ver_observacao.md
       - Validação: analise/validacao/validacao.md
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md

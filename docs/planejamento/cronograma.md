@@ -6,6 +6,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 03/02/2022 |  0.1   | Criação do documento e elaboração do cronograma |  [@klyssmannoliveira](https://github.com/klyssmannoliveira); [@eduardomr](https://github.com/eduardo-github) e [@augustocrmg](https://github.com/augusto-github)     |
 | 03/02/2022 | 0.2 | Mapa de calor | [@joseluis-rt](https://github.com/joseluis-rt); [@lorenzo7377](lorenzo-github) e [@kayrocesar](kayro-github) |
+| 23/03/2022 |  0.3   | Ajustes das atas |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
 ## 1. Introdução
@@ -16,15 +17,15 @@
 
 <center>
 
-| Etapas | Título       | Data                                           | Descrição        | Apresentação        |
-| :------: | :----------: | :---------------------------------------------------: | :------------: | :------------: |
-| I    | Planejamento | 18/01 ~ 06/02 | Planejamento do projeto e RichPicture | 06/02 |
-| II    | Elicitação | 06/02 ~ 20/02 | Técnicas e Priorização | 20/02 |
-| III    | Modelagem de Requisitos | 20/02 ~ 06/03 | Cenários, Léxico, Casos de Uso e Especificação Suplementar | 06/03 |
-| IV    | Modelagem de Requisitos - Ágil | 23/02 ~ 09/03 | Histórias de Usuário, Backlog e NFR Framework | 09/03 |
-| V    | Análise de Requisitos | 09/03 ~ 23/03 | Verificação & Validação | 23/03 |
-| VI    | Pós-Rastreabilidade | 23/03 ~ 03/04 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 03/04 |
-| VII    | Apresentação final | 03/04 ~ 25/04 | Conclusão do projeto | 25/04 |
+| Etapas | Título       | Data                                           | Descrição        | Apresentação        | Ata |
+| :------: | :----------: | :---------------------------------------------------: | :------------: | :------------: | :-------: |
+| I    | Planejamento | 18/01 ~ 06/02 | Planejamento do projeto e RichPicture | 06/02 | [Ata 1](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/29012022/) e [Ata 2](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/03022022/) |
+| II    | Elicitação | 06/02 ~ 20/02 | Técnicas e Priorização | 20/02 |  [Ata 3](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/10022022/) |
+| III    | Modelagem de Requisitos | 20/02 ~ 06/03 | Cenários, Léxico, Casos de Uso e Especificação Suplementar | 06/03 | [Ata 4](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/17022022/) e [Ata 5](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/24022022/) |
+| IV    | Modelagem de Requisitos - Ágil | 23/02 ~ 09/03 | Histórias de Usuário, Backlog e NFR Framework | 09/03 | [Ata 6](https://requisitos-de-software.github.io/2021.2-PontoFacil/atas/03032022/) |
+| V    | Análise de Requisitos | 09/03 ~ 23/03 | Verificação & Validação | 23/03 |Definir |
+| VI    | Pós-Rastreabilidade | 23/03 ~ 03/04 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 03/04 | Definir |
+| VII    | Apresentação final | 03/04 ~ 25/04 | Conclusão do projeto | 25/04 | Definir |
 
 <figcaption>Tabela 1: Cronograma de atividades.</figcaption>
 

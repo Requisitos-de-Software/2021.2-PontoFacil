@@ -19,7 +19,7 @@
 ## 2. Metodologia
 ### 2.1 Comprovação Informal
 <p style="text-align: justify"> A comprovação informal é uma leitura de descrições em linguagem natural e pode ser feita de diferentes maneiras. Neste projeto a validação informal foi feita por meio de um email que foi enviado à equipe de desenvolvimento do Ponto Fácil com objetivo de validar os requisitos informalmente, porém o desenvolvedor ainda irá fazera a análise para que o processo de validação por comprovação informal seja finalizado. O documento será atualizado assim que que a validação for finalizada. </p>
-
+<br>
 <center>
 <figcaption>Figura 1: Email enviado à equipe de desenvolvimento.</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/comprovacao_informal.png"></p><br>

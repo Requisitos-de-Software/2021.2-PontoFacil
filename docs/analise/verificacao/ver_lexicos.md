@@ -50,7 +50,7 @@ Já a Figura 3 apresenta um gráfico de pizza com objetivo de mostrar as verific
 
 <center>
 
-<figcaption>Figura 3: Gráfico Resultado Backlog. </figcaption>
+<figcaption>Figura 3: Gráfico Resultado Léxicos. </figcaption>
 
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_lexico_grafico.png"></p><br>
 

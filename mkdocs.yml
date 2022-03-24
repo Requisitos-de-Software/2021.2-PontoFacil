@@ -79,15 +79,15 @@ nav:
           - Verificação MoSCoW: analise/verificacao/ver_moscow.md
           - Verificação Rich Picture: analise/verificacao/ver_rich_picture.md
           - Verificação Backlog: analise/verificacao/ver_backlog.md
-          - Verificação Casos de Uso: analise/verificacao/ver_casos_de_uso.md
-          - Verificação Cenários: analise/verificacao/ver_cenarios.md
+          - Verificação Casos de Uso: analise/verificacao/casos_de_uso.md
+          - Verificação Cenários: analise/verificacao/cenarios.md
           - Verificação Léxicos: analise/verificacao/ver_lexicos.md
           - Verificação Especificação Suplementar: analise/verificacao/ver_especificacao_suplementar.md
           - Verificação Brainstorming: analise/verificacao/ver_brainstorming.md
           - Verificação Questionário: analise/verificacao/ver_questionario.md
-          - Verificação Personas: analise/verificacao/ver_personas.md
-      - Validação:
-          - Prototipação: analise/validacao/prototipacao.md
+          - Verificação Observação: analise/verificacao/ver_observacao.md
+          - Verificação Introspecção: analise/verificacao/ver_introspeccao.md
+      - Validação: analise/validacao/validacao.md
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md
       - Foward-from: pos_rastreabilidade/forward_from.md

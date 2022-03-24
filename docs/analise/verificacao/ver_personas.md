@@ -14,8 +14,8 @@
 Esse documento visa a verificação de possíveis erros e incoerências no documento de personas. É possível acessar este documento clicando <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/">aqui</a>.
 </p>
 
-## 1. Metodologia
-<p style="text-align: justify">Será utilizada a técnica de inspeção no documento de personas, analisando a presença de algumas características vitais.</p>
+## 2. Metodologia
+<p style="text-align: justify">Será utilizada a técnica de inspeção no documento de personas, analisando a presença de algumas características vitais através de uma checklist.</p>
 
 |Item | Resposta | 
 | -- | -- |
@@ -25,7 +25,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 | Os objetivos das personas estão claros? | Sim |
 | As expectativas estão claras? | Sim |
 
-## 1. Conclusão
+## 3. Conclusão
 <p style="text-align: justify">A partir do checklist, podemos perceber que as princiáis características das personas estão o documento.</p>
 
 ## 4. Referências

@@ -5,7 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
-| 23/03/2022 |  0.2   | Revisão |  [Eduardo Maia](https://github.com/eduardomr) |
+| 23/03/2022 |  0.2   | Revisão (Obs: documento não padronizado) |  [Eduardo Maia](https://github.com/eduardomr) |
 
 
 

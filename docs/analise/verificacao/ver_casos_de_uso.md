@@ -1,4 +1,4 @@
-# Verificação de personas
+# Verificação de casos de usos
 
 ## Histórico de versão
 
@@ -11,124 +11,92 @@
 
 ## 1. Introdução
 <p style="text-align: justify">
-Esse documento visa a verificação de possíveis erros e incoerências no documento de personas. É possível acessar este documento clicando <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/">aqui</a>.
+Esse documento visa a verificação de possíveis erros e incoerências no documento de casos de usos. É possível acessar este documento clicando <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/casos_de_uso/">aqui</a>.
 </p>
 
 ## 2. Metodologia
-<p style="text-align: justify">Será utilizada a técnica de inspeção no documento de personas, analisando a presença de algumas características vitais através de uma checklist.</p>
+<p style="text-align: justify">Será utilizada a técnica de inspeção no documento de casos de usos, analisando a presença de algumas características vitais através de uma checklist.</p>
 
-## 3. Metodologia
-### 3.1 Cenário 01
+## 3. Casos de uso
+### Caso de uso 01 -  Registrar o ponto
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 
 <br>
 
-### 3.1 Cenário 02
+### Caso de uso 02 -  Registrar falta
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 <br>
 
-### 3.1 Cenário 03
+### Caso de uso 03 - Apagar registros passados
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-| Os objetivos das personas estão claros? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 
 <br>
 
-### 3.1 Cenário 04
+### Caso de uso 04 - Ativar a notificação de alarme
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 
 <br>
 
-### 3.1 Cenário 05
+### Caso de uso 05 - Realizar Backup dos registros
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 
 <br>
 
-### 3.1 Cenário 06
+### Caso de uso 06 - Gerar extrato de registros
 |Item | Resposta | 
 | -- | -- |
-| O título está bem escrito? |  Sim  | 
-| O objetivo é claro? | Sim |
-|Dentro do contexto, há pós-condição?|	Sim
-|Dentro do contexto, há pré-condição?|	Sim
-|O contexto está coerente com o objetivo?|	Sim
-|Os atores foram citados de forma correta?|	Sim
-|Os recursos foram listados de maneira coerente?|	Sim
-|Os episódios estão listados de forma correta e organizada?|	Sim
-|O cenário possui restrições?|	Sim
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não
-|As exceções estão bem organizadas e bem escritas?|	Sim
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Sim|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+
+<br>
+
+### Caso de uso 07 - Visualizar inconsistências nos registros de ponto
+|Item | Resposta | 
+| -- | -- |
+|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
+|O nome do caso de uso é de fácil compreensão?|	Sim|
+|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
+|Existe diferenciação do fluxo normal e alternativo?|	Não se aplica|
+|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
 
 <br>
 
 ## 4. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que as principais características das personas estão o documento.</p>
+<p style="text-align: justify">A partir do checklist, podemos perceber que o grupo deixou de explicar em detalhes cada caso de uso pois julgou que o título já seria o suficiente.</p>
 
 ## 5. Referências
 
-> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 17 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

@@ -17,8 +17,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ## 2. Metodologia
 <p style="text-align: justify">Será utilizada a técnica de inspeção no documento de cenários, analisando a presença de algumas características vitais através de uma checklist.</p>
 
-## 3. Metodologia
-### 3.1 Cenário 01
+## 3. Cenários
+### Cenário 01
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 
@@ -35,7 +35,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 3.1 Cenário 02
+### Cenário 02
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 
@@ -51,7 +51,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 |Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não|
 <br>
 
-### 3.1 Cenário 03
+### Cenário 03
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 
@@ -68,7 +68,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 3.1 Cenário 04
+### Cenário 04
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 
@@ -85,7 +85,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 3.1 Cenário 05
+### Cenário 05
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 
@@ -102,7 +102,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 3.1 Cenário 06
+### Cenário 06
 |Item | Resposta | 
 | -- | -- |
 | O título está bem escrito? |  Sim| 

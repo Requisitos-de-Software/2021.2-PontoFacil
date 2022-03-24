@@ -5,7 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
-| 23/03/2022 |  0.2   | Revisão |  [](https://github.com/) |
+| 23/03/2022 |  0.2   | Revisão |  [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
@@ -95,7 +95,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <br>
 
 ## 4. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que o grupo deixou de explicar em detalhes cada caso de uso pois julgou que o título já seria o suficiente.</p>
+<p style="text-align: justify">A partir do checklist, podemos perceber que o grupo deixou de explicar em detalhes cada caso de uso, pois julgou que o título já seria o suficiente.</p>
 
 ## 5. Referências
 

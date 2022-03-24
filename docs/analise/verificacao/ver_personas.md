@@ -5,7 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
-| 23/03/2022 |  0.2   | Revisão |  [](https://github.com/) |
+| 23/03/2022 |  0.2   | Revisão |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
@@ -26,7 +26,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 | As expectativas estão claras? | Sim |
 
 ## 3. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que as principais características das personas estão o documento.</p>
+<p style="text-align: justify">A partir do checklist, podemos perceber que as principais características das personas estão no documento.</p>
 
 ## 4. Referências
 

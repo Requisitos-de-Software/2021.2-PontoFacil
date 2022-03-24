@@ -5,7 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
-| 23/03/2022 |  0.2   | Revisão |  [](https://github.com/) |
+| 23/03/2022 |  0.2   | Revisão |   [José Luís](https://github.com/joseluis-rt)) |
 
 
 
@@ -120,7 +120,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <br>
 
 ## 4. Conclusão
-<p style="text-align: justify">A partir do checklist, podemos perceber que as exceções e restrições foram escritas de forma muito genérica, exceto no cénario 03, onde a rstrição foi melhor escrita.</p>
+<p style="text-align: justify">A partir do checklist, podemos perceber que as exceções e restrições foram escritas de forma muito genérica, exceto no cénario 03, onde a restrição foi melhor escrita.</p>
 
 ## 5. Referências
 

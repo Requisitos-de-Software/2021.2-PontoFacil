@@ -6,7 +6,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 03/02/2022 |  0.1   | Criação do documento e elaboração do cronograma |  [@klyssmannoliveira](https://github.com/klyssmannoliveira); [@eduardomr](https://github.com/eduardo-github) e [@augustocrmg](https://github.com/augusto-github)     |
 | 03/02/2022 | 0.2 | Mapa de calor | [@joseluis-rt](https://github.com/joseluis-rt); [@lorenzo7377](lorenzo-github) e [@kayrocesar](kayro-github) |
-| 23/03/2022 |  0.3   | Ajustes das atas |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
+| 23/03/2022 |  0.3   | Ajustes das atas |  [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
 
 
 ## 1. Introdução

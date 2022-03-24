@@ -1,11 +1,11 @@
-# Verificação de cenários
+# Verificação de Cenários
 
 ## Histórico de versão
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
-| 23/03/2022 |  0.2   | Revisão |   [José Luís](https://github.com/joseluis-rt) |
+| 23/03/2022 |  0.2   | Revisão (Obs: documento não padronizado) |   [José Luís](https://github.com/joseluis-rt) |
 
 
 

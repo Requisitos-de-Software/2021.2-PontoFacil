@@ -11,9 +11,11 @@
 
 ## 1. Introdução
 
+ <p style="text-align: justify"> 
+    O rastreamento de requisitos é usado para estabelecer relacionamentos entre requisitos, arquitetura e implementação do sistema e permite uma melhor compreensão dos relacionamentos citados. A rastreabilidade pode ser implementada através de um conjunto de elos ou links entre requisitos inter-relacionados, entre requisitos e suas fontes, e entre requisitos e componentes que os implementam.
+ </p>
 <p style="text-align: justify"> 
-    
-
+   A pós-rastreabilidade permite vincular os requisitos ao desenho do sistema e sua implementação. A rastreabilidade <i>forward-from</i> estabelece a ligação entre requisitos e artefatos de desenho e implementação.
  </p>
 
 ## 2. Metodologia

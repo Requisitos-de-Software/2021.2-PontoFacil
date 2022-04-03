@@ -13,20 +13,13 @@
 ## 1. Introdução
 
 <p style="text-align: justify"> 
-  
- O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema. </br>
- 
- Rastreabilidade backward-from (para trás, a partir de), procura ligar os requisitos às suas fontes.
-
-
+ O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema.A rastreabilidade backward-from (para trás, a partir de), procura ligar os requisitos às suas fontes, como as técnicas que os originaram e possíveis documentos.
  </p>
 
 ## 2. Metodologia
 
 <p style="text-align: justify">
-
 Para cada requisito estabelecemos uma coluna que especifica quais documentos e técnicas de origens, além de um link de rastreabilidade para cada documento. Também está presente o stakeholder que é nada mais do que as partes interessadas. 
-  
 </p>
 
 ## 3. Resultados

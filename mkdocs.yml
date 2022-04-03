@@ -92,6 +92,7 @@ nav:
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md
       - Foward-from: pos_rastreabilidade/forward_from.md
+      - EAP: pos_rastreabilidade/eap.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md

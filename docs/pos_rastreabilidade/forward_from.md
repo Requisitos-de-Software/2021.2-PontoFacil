@@ -331,9 +331,9 @@
 
 ## 4. Referências
 
-> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 17 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-> 
+> SAYÃO, Miriam; DO PRADO LEITE, Júlio Cesar Sampaio. Rastreabilidade de requisitos. Monografia(Ciência da Computação)- Departamento de Informática,Pontifícia Universidade Católica do Rio Grande do Sul. Rio Grande do Sul, p.26. 2005
 
 
 

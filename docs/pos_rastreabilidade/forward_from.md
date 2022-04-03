@@ -4,7 +4,7 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 01/04/2022 |  0.1   | Criação do documento e elaboração do texto |  [](https://github.com/) |
+| 01/04/2022 |  0.1   | Criação do documento e elaboração do texto | [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr) |
 
 
 
@@ -65,7 +65,7 @@
     <tbody >
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="../../modelagem/backlog/backlog/#epico-01" >Épico 01 -  Gerenciamento de Registros </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="https://www.figma.com/" >TE01</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=2%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE01</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A334&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE04</a><br> <a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF01</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo usuário do sistema,desejo registrar o ponto de entrada, para que eu saiba quando iniciei o trabalho.</td>
@@ -188,7 +188,7 @@
        </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="../../modelagem/backlog/backlog/#epico-02" >Épico 02 - Backup </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://www.figma.com/" >TE02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=271%3A53&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us18/">US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup,para que possa escolher a hora e o dia mais adequado para backup.</td>    
@@ -220,7 +220,7 @@
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="../../modelagem/backlog/backlog/#epico-03" >Épico 03 - Definição de Padrões  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="https://www.figma.com/" >TE03</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A155&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE14</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A284&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us22/">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia , para que eu possa controlar os horários de acordo com a minha rotina.</td>  
@@ -266,7 +266,7 @@
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="../../modelagem/backlog/backlog/#epico-04" >Épico 04 - Visualização de Registros  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="https://www.figma.com/" >TE04</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=2%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE01</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A178&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE07</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A297&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE09</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A401&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE10</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE06</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A380&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE12</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A419&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us28/">US28</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario, desejo visualizar inconsistências no registro de ponto, para que eu possa corrigir os erros no registro de ponto.</td>

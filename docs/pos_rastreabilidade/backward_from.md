@@ -5,6 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 02/04/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
+| 03/04/2022 |  0.2   | Adição de metodologia e referências |  [José Luís](https://github.com/joseluis-rt) |
 
 
 
@@ -82,14 +83,8 @@ Para cada requisito estabelecemos uma coluna que especifica quais documentos e t
 | RNF07 | O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox | [Introspecção](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/) | Aplicativo |
 | RNF08 | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância | [Introspecção](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/) | Aplicativo |
 
-## 4. Conclusão
-
- <p style="text-align: justify">
-
-
- </p>
  
- ## 5. Referências
+ ## 4. Referências
  
  > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26.
  

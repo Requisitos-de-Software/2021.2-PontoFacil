@@ -5,7 +5,7 @@
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
 | 02/04/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
-| 03/04/2022 |  0.2   | Adição de metodologia e referências |  [José Luís](https://github.com/joseluis-rt) |
+| 03/04/2022 |  0.2   | Adição de metodologia e referências |  [José Luís](https://github.com/joseluis-rt) e [Lorenzo Santos](https://github.com/lorenzo7377)|
 
 
 

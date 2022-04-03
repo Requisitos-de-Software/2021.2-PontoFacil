@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 02/04/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt) |
 | 03/04/2022 |  0.2   | Adição de metodologia e referências |  [José Luís](https://github.com/joseluis-rt) e [Lorenzo Santos](https://github.com/lorenzo7377)|
+| 03/04/2022 |  0.3   | Revisão |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
 
@@ -25,6 +26,7 @@ Para cada requisito estabelecemos uma coluna que especifica quais documentos e t
 ## 3. Resultados
 
 #### Requisitos Funcionais
+
 | Identificadores | Requisito | Técnica de origem | Stakeholder |
 | -- | -- | -- | -- |
 | RF01 | O usuário deve ser capaz de registrar o ponto de entrada | [Brainstorming](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/brainstorming/) | Usuário |

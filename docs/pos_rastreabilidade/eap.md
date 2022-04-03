@@ -4,8 +4,8 @@
 
 |Data | Versão | Modificação | Autor(es)|
 | -- | -- | -- | -- |
-| 02/04/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
-
+| 02/04/2022 |  0.1   | Criação do documento e elaboração do texto e imagens|  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
+| 02/04/2022 |  0.2   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr) |
 
 
 ## 1. Introdução

@@ -37,6 +37,7 @@ Para a construção do trabalho da disciplina como um todo é necessário o uso 
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/Diagrams.net_Logo.png" width="50"> | Diagrams.net | Ferramenta utilizada para criação de diagramas UML durante do projeto |
 |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-sheets.png" width="30">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
 |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-figma.png" width="30">| Figma | Ferramenta utilizada para construir interfaces de interação com usuário   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-canva.png" width="30">| Figma | Ferramenta utilizada para fazer slides de apresentação do grupo   |
 
 <figcaption>Fonte: Elaboração dos autores</figcaption>
 

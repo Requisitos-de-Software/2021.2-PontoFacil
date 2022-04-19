@@ -60,7 +60,7 @@
 
 <div align="center">
    <figcaption>Figura 1 - Diagrama de casos de uso</figcaption>
-    <img src="../../assets/imagens/diagrama_use_case_PontoFacil.svg" alt="diagrama de casos de uso">
+    <img src="../../assets/imagens/Casos de uso -geral.svg" alt="diagrama de casos de uso">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
@@ -75,12 +75,12 @@
 
 <div align="center">
    <figcaption>Figura 2 - Diagrama de Caso de uso - Registrar o ponto</figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/0afa5d5642d2018f9ae2f520f3ce18acacbb9645/docs/assets/imagens/Casos%20de%20uso-registrar-ponto.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/0afa5d5642d2018f9ae2f520f3ce18acacbb9645/docs/assets/imagens/Casos%20de%20uso-registrar-ponto.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>

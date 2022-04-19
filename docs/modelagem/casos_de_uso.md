@@ -72,7 +72,20 @@
 
 ###  3.2. Registrar o ponto 
 <br>
-<div align="center"> Tabela 2: Caso de uso - Registrar o ponto</div>
+
+<div align="center">
+   <figcaption>Figura 2 - Diagrama de Caso de uso - Registrar o ponto</figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+
+<div align="center"> Tabela 2: Caso de uso na forma textual - Registrar o ponto</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -91,7 +104,18 @@
 
 ### 3.3. Registrar falta
 <br>
-<div align="center"> Tabela 3: Caso de uso - Registrar falta</div>
+<div align="center">
+   <figcaption>Figura 3 - Diagrama de Caso de uso - Registrar falta</figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+<div align="center"> Tabela 3: Caso de uso na forma textual  - Registrar falta</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -111,7 +135,18 @@
 
 ### 3.4. Apagar registros passados
 <br>
-<div align="center"> Tabela 4: Caso de uso - Apagar registros passados</div>
+<div align="center">
+   <figcaption>Figura 4 - Diagrama de Caso de uso -  Apagar registros passados</figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+<div align="center"> Tabela 4: Caso de uso na forma textual  - Apagar registros passados</div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -128,7 +163,19 @@
 
 ### 3.5. Ativar a notificação de alarme 
 <br>
-<div align="center"> Tabela 5: Caso de uso -  Ativar a notificação de alarme </div>
+<div align="center">
+   <figcaption>Figura 5 - Diagrama de Caso de uso -  Ativar a notificação de alarme </figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+
+<div align="center"> Tabela 5: Caso de uso na forma textual  -  Ativar a notificação de alarme </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -143,7 +190,19 @@
 
 ### 3.6. Realizar Backup dos registros
 <br>
-<div align="center"> Tabela 6: Caso de uso -  Realizar Backup dos registros </div>
+<div align="center">
+   <figcaption>Figura 6 - Diagrama de Caso de uso -  Realizar Backup dos registros </figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+
+<div align="center"> Tabela 6: Caso de uso na forma textual  -  Realizar Backup dos registros </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -160,7 +219,19 @@
 
 ### 3.7. Gerar extrato de registros
 <br>
-<div align="center"> Tabela 7: Caso de uso - Gerar extrato de registros </div>
+<div align="center">
+   <figcaption>Figura 7 - Diagrama de Caso de uso -  Gerar extrato de registros </figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+
+<div align="center"> Tabela 7: Caso de uso na forma textual  - Gerar extrato de registros </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
 | :---: | :---: |:---: | :---: | :---: |
@@ -170,7 +241,6 @@
 | Normal | <p  style=" color:#2094f3">4</p> |Aplicativo gera o extrato  |Funcionário de uma empresa|[RF32](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/)|
 | Normal | <p  style=" color:#2094f3">5</p>| Aplicativo informa que o extrato foi gerado e pergunta se o usuário deseja abri-lo  |Funcionário de uma empresa|-|
 | Extensão| <p  style=" color:#FF0000">2a</p> |Funcionário seleciona o intervalo de datas inválido (solicitar o intervalo novamente) |Funcionário de uma empresa|-|
-|
 
 <div align="center"> Fonte: Elaboração dos autores</div>
 
@@ -179,7 +249,18 @@
 
 ### 3.8. Visualizar inconsistências nos registros de ponto  
 <br>
-<div align="center"> Tabela 8: Caso de uso - Visualizar inconsistências nos registros de ponto
+<div align="center">
+   <figcaption>Figura 8 - Diagrama de Caso de uso -  Visualizar inconsistências nos registros de ponto </figcaption>
+    <img src="../../assets/imagens/">
+   <figcaption>Fonte: Elaboração dos autores.</figcaption>
+
+   <br>
+   <br>
+  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+
+</div>
+<br>
+<div align="center"> Tabela 8: Caso de uso na forma textual  - Visualizar inconsistências nos registros de ponto
 </div>
 
 | Fluxo | Passo |Ação |  Ator | RF |
@@ -193,9 +274,7 @@
  <br>
 
 
-<div align="justify">
-   
-</div>
+
 
 
 
@@ -203,8 +282,7 @@
 ## 4. Legenda
 
 RF - Requisito Funcional <br>
-Extender - <br>
-Incluir - Relacionamento deve ocorrer (Obrigatório) <br>
+
 
 
 

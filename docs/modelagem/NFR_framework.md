@@ -9,6 +9,7 @@
 | 07/03/2022 |  0.3   | Metodologia |  [José Luís](https://github.com/joseluis-rt)|
 | 07/03/2022 |  0.4   | Criação dos Diagramas |  [José Luís](https://github.com/joseluis-rt) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 08/03/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr)|
+| 19/04/2022 |  0.6   | Implementando legendas |  [José Luís](https://github.com/joseluis-rt)|
 
 
 
@@ -24,6 +25,25 @@
 
 <p style="text-align: justify"> Por meio do NFR Framework procuramos estabelecer as funcionalidades dos requisitos não-funcionais através da implementação de diagramas e  análises de suas possíveis propagações. Além disso, por meio dos softgoals, que registram as considerações do desenvolvedor a respeito dos softgoals e mostra suas interdependências, conseguimos decompor e organizar os grafos. Os autores se reuniram por meio da ferramenta de comunicação Discord e para realização dos diagramas foi utilizado o Lucidchart. </p>
 
+</br>
+
+**Legenda**
+
+Os tipos de contribuição utilizados nos diagramas foram:
+
+
+- AND: Caso os softgoals descendentes sejam satisfeitos, serão também os ascendentes.
+
+- OR: Caso algum softgoal descendentes seja satisfeitos, será também os ascendente.
+
+<center>
+
+<figcaption>Figura 8: Legenda</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/legenda.png"></p>
+
+<figcaption>Fonte: Elaboração dos autores</figcaption>
+
+</center>
 
 ## 3. Requisitos não funcionais
 
@@ -137,22 +157,7 @@
 
 <br>
 
-
-## 5. Legenda
-
-<center>
-
-<figcaption>Figura 8: Legenda</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/legenda.png"></p><br>
-
-
-<figcaption>Fonte: Elaboração dos autores</figcaption>
-
-</center>
-
-<br>
-
-## 6. Referências
+## 5. Referências
 
 > CHUNG, Lawrence et al. Non-functional requirements in software engineering. Springer Science & Business Media, 2012.
 

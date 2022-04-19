@@ -9,6 +9,7 @@
 | 04/03/2022 |  0.3   | Adição de imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 | 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
+| 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
 
 
 ## 1. Definição
@@ -47,7 +48,7 @@
 
 ### 3.4 R - Reliability (Confiabilidade)
 &emsp;&emsp;Refere-se a integridade, conformidade e interoperabilidade do software como:<br><br>
-&emsp;&emsp;- Freqüência e gravidade de falha<br>
+&emsp;&emsp;- Frequência e gravidade de falha<br>
 &emsp;&emsp;- Possibilidade de recuperação<br>
 &emsp;&emsp;- Possibilidade de previsão<br>
 &emsp;&emsp;- Precisão<br>
@@ -85,9 +86,11 @@
 
 <center>
   
+<figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
+  
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_resumo.jpg"></p><br>
   
-<figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
+<figcaption>Fonte: Elaborado pelos autores</figcaption>
   
 </center>
 
@@ -131,9 +134,11 @@
   
 <center>
 
+<figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+  
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_grafico.jpg"></p><br>
   
-<figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+<figcaption>Fonte: Elaborado pelos autores</figcaption>
 
 </center>
 

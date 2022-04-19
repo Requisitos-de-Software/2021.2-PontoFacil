@@ -6,6 +6,7 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 19/04/2022 |  0.1   | Criação do documento e elaboração do texto |   [José Luís](https://github.com/joseluis-rt)    |
 | 19/04/2022 |  0.2   | Adição mapa de calor |   [José Luís](https://github.com/joseluis-rt)    |
+| 19/04/2022 | 0.3 | Revisão do documento | [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
 
 ## 1. Introdução
 

@@ -8,6 +8,7 @@
 | 04/03/2022 |  0.2   | Elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.3   | Adição de imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
+| 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
 
 
 ## 1. Definição
@@ -114,7 +115,7 @@
 | U | "O aplicativo deve ter opções de linguagem (português e inglês)" | RNF01 |
 | R | - |
 | P | "O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox" e "O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância" | RNF07 e RNF08 |
-| S | "O Sistema deverá ser acessível por meio de dispositivos móveis" | RNF02 |
+| S | "O Sistema deverá ser acessível por meio dos dispositivos móveis (IOS, Android)" | RNF02 |
 | + | "O aplicativo deve ter opções de tema (claro e escuro)" e "O Sistema deve ter layout compreensível e objetivo" | RNF03 e RNF05 |
 
 <figcaption>Tabela 1: Divisão dos requisitos a partir da metodologia FURPS+</figcaption>

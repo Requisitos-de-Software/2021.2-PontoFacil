@@ -1,4 +1,4 @@
-# Ferramentas de documentação e comunicação
+# Ferramentas utilizadas
 
 ## Histórico de versão
 
@@ -25,7 +25,7 @@ Para a construção do trabalho da disciplina como um todo é necessário o uso 
 
 | Ícone |  Ferramenta  |  Função  | 
 | :---: |  :---:  |  :---: |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/githubpng.png" width="100">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-github.png" width="70">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git |
 |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-whatsapp.jpg" width="50">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
 | <img  src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/drivepng.png" width="50"> | Google Drive | Ferramenta utilizada para compartilhamento de documentos e imagens referentes ao projeto entre os membros da equipe |
 |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-discord.png" width="50">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |

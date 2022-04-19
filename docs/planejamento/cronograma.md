@@ -4,15 +4,17 @@
 
 |    Data    | Versão |                Modificação                |       Autor        |
 | :-------- | :---- | :--------------------------------------- | :---------------- |
-| 03/02/2022 |  0.1   | Criação do documento e elaboração do cronograma |  [@klyssmannoliveira](https://github.com/klyssmannoliveira); [@eduardomr](https://github.com/eduardo-github) e [@augustocrmg](https://github.com/augusto-github)     |
-| 03/02/2022 | 0.2 | Mapa de calor | [@joseluis-rt](https://github.com/joseluis-rt); [@lorenzo7377](lorenzo-github) e [@kayrocesar](kayro-github) |
-| 23/03/2022 |  0.3   | Ajustes das atas |  [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
-| 04/04/2022 |  0.4   | Ajustes das atas |  [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
+| 03/02/2022 |  0.1   | Criação do documento e elaboração do cronograma |  [Klyssmann](https://github.com/klyssmannoliveira); [Eduardo](https://github.com/eduardo-github) e [Augusto](https://github.com/augusto-github)     |
+| 03/02/2022 | 0.2 | Mapa de calor | [José Luís](https://github.com/joseluis-rt); [Lorenzo](lorenzo-github) e [Kayro](kayro-github) |
+| 23/03/2022 |  0.3   | Ajustes das atas |  [Klyssmann](https://github.com/klyssmannoliveira) |
+| 04/04/2022 |  0.4   | Ajustes das atas |  [Klyssmann](https://github.com/klyssmannoliveira) |
+| 19/03/2022 | 0.5 | Removendo Mapa de calor do cronograma | [José Luís](https://github.com/joseluis-rt) |
+
 
 
 ## 1. Introdução
 
-&emsp;&emsp;Analisando o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes, foi criado um cronograma dividido em etapas para a realização das atividades e criação dos artefatos.
+&emsp;&emsp;Analisando o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes, foi criado um cronograma dividido em etapas para a realização das atividades e criação dos artefatos. [Disponibilidade (Mapa de Calor) dos integrantes](https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/disponibilidade/) .
 
 ## 2. Cronograma de atividade
 
@@ -32,15 +34,3 @@
 
 </center>
 
-## 3. Mapa de calor
-
-&emsp;&emsp;Para organizar as reuniões do grupo, foi criado um mapa de calor analisando os horários livres dos integrantes. Cada integrante adicionou numa planilha seus horários ocupados e livres, e a partir dessas informações, uma planilha foi gerada com os horários mais livres e mais ocupados.
-
-<center>
-
-<figcaption>Figura 1: Mapa de calor do grupo.</figcaption>
-![Mapa de Calor](https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master/docs/assets/imagens/Mapa_de_Calor.jpg?raw=true)
-
-<figcaption>Fonte: Elaborado pelos autores.</figcaption>
-
-</center>

@@ -9,7 +9,7 @@
 | 17/02/2022 |  0.3   | Persona 3 e antipersona |  [Kayro César](https://github.com/kayrocesar)   |
 | 17/02/2022 |  0.4   | Revisão e inserção de imagens |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 17/02/2022 |  0.5   | Ajustes e referências das imagens |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
-| 20/04/2022 |  0.6   | Inclusão de metodologia e conclusão |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia e inclusão de conclusão | [Eduardo Maia](https://github.com/eduardomr) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 ---
 
@@ -19,12 +19,17 @@
 
 <p style="text-align: justify">Apesar das personas sejam perfis inventados e não correspondem a uma pessoa real, é necessário que sejam definidas com rigor e detalhes para representar os usuários que vão utilizar o sistema. Desta maneira, a concepção das personas é fruto de um trabalho de introspecção para visualizar os possíveis usuários finais e não usuários do sistema, ou seja, o objetivo, características e o perfil são reais, apenas os nomes são fictícios. Quanto mais específicas forem as personas, mais eficientes elas serão como ferramentas de desenvolvimento e comunicação (BARBOSA; SILVA, 2010, p. 176).</p>
 
-## 1. Metodologia
-<p style="text-align: justify">Com o objetivo de elaborar personas para o projeto, foi realizada uma investigação observando os usuários reais da aplicação, assim foram listadas características e informações demográficas desses usuários. As imagens utilizadas foram geradas pelo sistema de inteligência artificial This Person does not Exist, são meramente ilustrativas e de pessoas não reais.</p>
 
 ## 2. Personas
 
-### 2.1. Persona 1
+## 2. Metodologia
+
+<p style="text-align: justify"></p>Para desenvolvimento do atual artefato, os autores se reuniram pela ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> onde foi simulado situações onde os autores se passaram por usuários para desenvolver as características das personas. Houve a participação de um usuário real chamado Rafael Kayque, engenheiro automotivo, que utiliza o aplicativo para o controle pessoal do banco de horas. A reunião não foi gravada pois o usuário não concordou com a gravação. As imagens utilizadas foram geradas pelo sistema de inteligência artificial This Person does not Exist, são meramente ilustrativas e de pessoas não reais.
+</p>
+
+## 3. Personas
+
+### 3.1. Persona 1
 
 | Persona | Engenheira de homologação de veículos |
 | :-: | :-- |
@@ -38,7 +43,7 @@
 | Citação | “Uma mulher determinada e realizada. Mãe sempre acima de qualquer coisa” |
 
 
-### 2.2. Persona 2
+### 3.2. Persona 2
 
 | Persona | Desenvolvedor de software - remoto |
 | :-: | :-- |
@@ -51,7 +56,7 @@
 | Ambiente | Marcos trabalha no formato remoto desde o início da pandemia devido ao COVID-19. Ele prefere trabalhar em casa pois gosta de desenvolver seu papel no horário que está mais disposto. Gosta da companhia dos seus cachorros e frequentemente vai ao parque. Marcos não precisa bater registrar o ponto presencialmente, mas, utiliza o ponto fácil para organizar o seu horário de trabalho em casa durante a semana.| 
 | Citação | “A madrugada é o melhor horário para desenvolver” |
 
-### 2.3. Persona 3
+### 3.3. Persona 3
 
 | Persona | Bartender |
 | :-: | :-- |
@@ -64,7 +69,7 @@
 | Ambiente |Diogo trabalha em um conhecido bar de Brasília. Ele gosta muito de conversar com  pessoas conhecidas e  desconhecidas e tem muito senso de humor. Costuma trabalhar bastante e  geralmente  trabalha no período noturno. Costuma utilizar o aplicativo ponto fácil para ter uma noção do quanto está trabalhando, não tem muita paciencia para ficar configurando o aplicativo.| 
 | Citação | "Gostaria que meu salário sobrevivesse mais que dois dias na minha conta." |
 
-### 2.4. Antipersona
+### 3.4. Antipersona
 
 | Persona | Eletrecista aposentado|
 | :-: | :-- |
@@ -81,9 +86,9 @@
 <p style="text-align: justify">A elaboração das personas ajudaram a focar as decisões em torno dos componentes da aplicação, incluindo um outro contexto que considera o mundo real ao debate. O desenvolvimento das personas também ofereceram um ponto de vista rápido e barato para priorizar os recursos durante o processo de desenvolvimento. Além disso, as personas apoiaram a decisão de quais abordagens seriam adotadas com base nos comportamentos do usuário.</p>
 
 
-## 3. Referências
-COOPER, A.; REIMANN, R.; CRONIN, D. About Face 3: The Essentials of Interaction Design. Indianápolis: Wiley Publishing, Inc., 2007.
+## 4. Referências
+> COOPER, A.; REIMANN, R.; CRONIN, D. About Face 3: The Essentials of Interaction Design. Indianápolis: Wiley Publishing, Inc., 2007.
 
-BARBOSA, S.; SILVA, B. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
+> BARBOSA, S.; SILVA, B. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
 
-THIS PERSON DOES NOT EXIST, FACE, 2022. Disponível em: <<https://this-person-does-not-exist.com/pt/>>. Acessado: 17/02/2022.
+> THIS PERSON DOES NOT EXIST, FACE, 2022. Disponível em: <<https://this-person-does-not-exist.com/pt/>>. Acessado: 17/02/2022.

@@ -7,6 +7,8 @@
 | -- | -- | -- | -- |
 | 18.02.2022 | 0.1 | Adição do documento de Brainstorming | [Kayro César](https://github.com/kayrocesar) |
 | 18/02/2022 |  0.2   | Revisão do documento e ajustes ortográficos |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+
 
 
 
@@ -18,7 +20,7 @@
 
 ### 2. Metodologia
 <div align="justify">
-    O grupo realizou uma reunião no aplicativo Discord para a execução do brainstorming e também utilizou ferramenta jamboard, que oferece uma quadro interativo para exposição de ideias. Dessa forma, cada participante expôs as suas ideias no quadro interativo a partir de cada um dos questionamentos levantados. 
+    O grupo realizou uma reunião no aplicativo Discord para a execução do brainstorming e também utilizou ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">jamboard</a> , que oferece uma quadro interativo para exposição de ideias. Dessa forma, cada participante expôs as suas ideias no quadro interativo a partir de cada um dos questionamentos levantados. Houve também a participação das <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/">personas</a> onde foram levadas em consideração as situações no qual estas personas comumente utilizaria ou não determinadas funções do aplicativo.
 </div>
 
 #### 2.1 Participantes do Brainstorming
@@ -29,6 +31,10 @@
 |[José Luís Ramos Teixeira](https://github.com/joseluis-rt)|
 |[Lorenzo de Lima Alves dos Santos](https://github.com/lorenzo7377)|
 |[Kayro César](https://github.com/kayrocesar)|
+|[Joana dos Santos Evangelista](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/)|
+|[Marcos José Farias](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/)|
+| [Diogo Aguiar dos Santos](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/)|
+| [José Francisco Da Silva](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/)|
 
 
 #### 2.2  Questionamentos realizados no Brainstorming

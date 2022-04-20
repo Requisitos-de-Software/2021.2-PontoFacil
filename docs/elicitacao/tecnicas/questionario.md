@@ -8,6 +8,7 @@
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.2   | Adição de imagens e participantes |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.3   | Revisão |  [Eduardo Maia](https://github.com/eduardomr)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
@@ -20,9 +21,11 @@
 
 ## 2. Metodologia
 
+&emsp;&emsp; Para a eloboração do formulário para o questionário foi utilizado a ferramento <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Google Forms</a>, no qual os integrantes do grupo se reuniram através da ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> e, através da observação participativa, barinstorming e introspecção, as perguntas foram elaboradas para identificar as principais funcionalidades do aplicativo.
+O questionário foi divulgado pelas redes sociais e em grupos de usuários frequentes do aplicativo. Desta forma, através da divulgação e do compartilhamento do questionário, foram obtidas um total de 81 (oitenta e uma) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.</p>
+
 <p align="justify">&emsp;&emsp;Para ter um número satisfatório de dados foi importante evitar questões longas e/ou complexas.
 
-&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (81) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.</p>
   
 | Dados Recolhidos em |
 |-----------------|

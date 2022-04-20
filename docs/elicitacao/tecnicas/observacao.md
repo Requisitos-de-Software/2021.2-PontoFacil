@@ -10,7 +10,8 @@
 | 18/02/2022 |  0.3   | Correção do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 18/02/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 | 19/02/2022 |  0.5   | Correção dos requisitos |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
-| 19/02/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
+| 19/02/2022 |  0.6   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 ## 1. Introdução
@@ -20,13 +21,13 @@
 </p>
 
 <p align="justify">&emsp;
-    Devido a esses fatores, o grupo optou por utilizar a observação participativa, na qual, em vez de um dos membros do grupo exercer o papel de observador, ele agirá como se fosse um usuário, levantando requisitos através da sua experiência.
+    Devido a esses fatores, o grupo optou por utilizar também a observação participativa, na qual, em vez de um dos membros do grupo exercer o papel de observador, ele agirá como se fosse um usuário, levantando requisitos através da sua experiência.
 </p>
 
 
 ## 2. Metodologia
 <p align="justify">&emsp;
-   No caso deste grupo, o participante Lorenzo Santos baixou o aplicativo Ponto Fácil na versão 2.8.10, o utilizou por 1 dia e registrou os requisitos levantados.
+   No caso deste grupo, o participante Lorenzo Santos baixou o aplicativo Ponto Fácil na versão 2.8.10, o utilizou por 1 dia e registrou os requisitos levantados. Também foi observado durante uma semana um usuário real do aplicativo, Klyssmann de Oiveira, que utiliza o aplicativo todos os dias para o controle pessoal do banco de horas da empresa em que trabalha.
 </p>
 
 ## 3. Resultados

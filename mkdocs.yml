@@ -74,6 +74,7 @@ nav:
 
   - Análise:
       - Verificação:
+          - Planejamento da Verificação: analise/verificacao/planejamento_verificacao.md
           - Verificação 5w2h: analise/verificacao/ver_5w2h.md
           - Verificação NFR Framework: analise/verificacao/ver_nfr_framework.md
           - Verificação MoSCoW: analise/verificacao/ver_moscow.md

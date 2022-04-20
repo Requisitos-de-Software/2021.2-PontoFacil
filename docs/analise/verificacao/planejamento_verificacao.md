@@ -45,21 +45,30 @@
  <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/">Personas</a><br>
 
 ### 2.3 Preparação
-<p style="text-indent: 20px; text-align: justify"> Todos os inspetores deverão utilizar uma tabela com itens a serem verificados no artefato indicando o status do item mencionado, se o item está presente e/ou correto ou se o item está ausente e/ou incorreto. A imagem abaixo representa o padrão a ser seguido</p>
-
+<p style="text-indent: 20px; text-align: justify"> Todos os inspetores deverão utilizar uma tabela com itens a serem verificados no artefato indicando o status do item mencionado, se o item está presente e/ou correto ou se o item está ausente e/ou incorreto. Também deve ser classificado o tipo de erro em cada item a partir da tabela abaixo.</p>
+<br>
 <center>
-<figcaption>Figura 1: Tabela modelo</figcaption>
-<img src="">
+<figcaption>Figura 1: Tabela de tipos de erros</figcaption>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/a5e998f752ba2f508f6c6c3ccfea7a7d59520f29/docs/assets/imagens/template_verificacao_tab.PNG">
+<figcaption>Fonte: Elaboração dos autores</figcaption>
+</center> 
+<br>
+<p>A partir dos erros apresentados acima os itens devem ser classificados seguindo o modelo da tabela abaixo.</p>
+<center>
+<figcaption>Figura 2: Tabela modelo</figcaption>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/a5e998f752ba2f508f6c6c3ccfea7a7d59520f29/docs/assets/imagens/template_verificacao_tab_vazia.PNG">
 <figcaption>Fonte: Elaboração dos autores</figcaption>
 </center> 
 
+
+<br>
 <p>Também deve ser apresentado um gráfico com a representação visual dos itens verificados na tabela de checklist. Um exemplo de gráfico é mostrado abaixo</p>
 
-
+<br>
 
 <center>
-<figcaption>Figura 2: Gráfico modelo</figcaption>
-<img src="">
+<figcaption>Figura 3: Gráfico modelo</figcaption>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/a5e998f752ba2f508f6c6c3ccfea7a7d59520f29/docs/assets/imagens/template_verificacao.PNG">
 <figcaption>Fonte: Elaboração dos autores</figcaption>
 </center> 
 

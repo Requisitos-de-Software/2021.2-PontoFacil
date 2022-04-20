@@ -17,17 +17,46 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ## 2. Metodologia
 <p style="text-align: justify">Será utilizada a técnica de inspeção no documento de casos de usos, analisando a presença de algumas características vitais através de uma checklist.</p>
 
-## 3. Casos de uso
-### Caso de uso 01 -  Registrar o ponto
-|Item | Resposta | 
-| -- | -- |
-|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
-|O nome do caso de uso é de fácil compreensão?|	Sim|
-|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
-|Existe diferenciação do fluxo normal e alternativo?|	Sim|
-|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+### 2.1 Possíveis Erros
+
+<center>
+
+<figcaption>Figura 1: Possíveis Erros. </figcaption>
+
+<p align = "center"><img src="possiveis_erros_casos_de_uso.png"></p> <br>
+
+
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
 
 <br>
+
+### 2.2 Checklist
+
+<center>
+
+<figcaption>Figura 2: Checklist Caso de uso 01 -  Registrar o ponto</figcaption>
+<p align = "center"><img src=""></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+<br>
+
+### 2.3  Gráfico
+
+<center>
+<figcaption>Figura 3: Gráfico de verificação NFR Framework.</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_nfr_framework_grafico.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+<br>
+
 
 ### Caso de uso 02 -  Registrar falta
 |Item | Resposta | 

@@ -138,7 +138,7 @@
         <tr>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="#epico-02" >Épico 03 - Definição de Padrões  </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="#epico-02" >Épico 03 - Personalização da Aplicação </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us22/">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia , para que eu possa controlar os horários de acordo com a minha rotina.</td>    
         </tr>

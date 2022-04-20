@@ -9,8 +9,9 @@
 | 16/02/2022 |  0.2   | Inserção dos requisitos e sua classificação |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 19/02/2022 |  0.3   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 19/02/2022 |  0.4   | Correção de Links |  [Eduardo Maia](https://github.com/lorenzo7377)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
-## Metodologia
+## 1. Introdução
 
 <p align="justify">&emsp;
   MoSCoW é  um método que tem o intuito de encontrar um entendimento em comum entre as partes interessadas no projeto sobre a importância que elas atribuem a cada requisito. Essa técnica está ligada às metodologias ágeis e define a prioridade dos requisitos de um sistema ou projeto.
@@ -25,8 +26,12 @@ O nome dessa técnica é dada devido as classificações de prioridade possívei
 * Could: são requisitos que seriam desejáveis, porém não são estrategicamente essenciais;
 * Would/Want/Won't : requisitos menos críticos que possuem menor retorno sobre o investimento quando comparado a outros.
 
+## 2. Metodologia
 
-## Resultados
+Para a elaboração deste documento, o autor analisou os documentos e artefatos utilizados nas técnicas de elicitação de requisitos e, desta forma, realizou-se as classificações dos requisitos com base nos princípios MoSCoW.
+
+
+## 3. Resultados
 
 ### Proporções entre as classificações
 | Prioridade | Quantidade de Requisitos |
@@ -39,6 +44,7 @@ O nome dessa técnica é dada devido as classificações de prioridade possívei
 <p align = "center"><img src="../../../assets/imagens/moscow.png" width="700"><br>Figura 01 - Gráfico de pizza representando as proporções de requisitos classificados como Must, Should, Could e Would</p><br>
 
 ### Lista de requisitos e suas prioridades
+
 |Identificação | Requisito | Técnica | Prioridade |
 | -- | -- | -- | -- |
 | RF01 | O usuário deve ser capaz de registrar o ponto de entrada | [Brainstorming](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/brainstorming/) | Must |
@@ -93,6 +99,6 @@ O nome dessa técnica é dada devido as classificações de prioridade possívei
 </div><br>
 
 
-## Referências
+## 4. Referências
 
 > [1] - Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em <a href=https://www.voitto.com.br/blog/artigo/metodo-moscow target="_blank">https://www.voitto.com.br/blog/artigo/metodo-moscow</a>. Acesso em 14 de fev. 2022

@@ -10,6 +10,7 @@
 | 05/03/2022 |  0.3   | Diagrama de casos de Uso |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) e  [Kayro César](https://github.com/kayrocesar)  |
 | 05/03/2022 |  0.4   | Revisão |  [Eduardo Maia](https://github.com/eduardomr) e  [José Luís](https://github.com/joseluis-rt)  |
 | 19/04/2022 |  0.5   | Correções |   [Kayro César](https://github.com/kayrocesar)  |
+| 19/04/2022 |  0.6   | Revisão do documento |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 
 
 
@@ -44,7 +45,7 @@
 
 ## 2. Metodologia
 <div align="justify">
-    No documento de casos de uso textual, o  primeiro aspecto a ser incluso é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões. O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro (VALENTE, 2020).
+    No documento de casos de uso textual, o  primeiro aspecto a ser incluso é a utilização de uma perspectiva de um ator que deseja utilizar o sistema para atingir um determinado objetivo. O ator costuma ser um usuário humano e um elemento externo em relação ao sistema. Primeiramente, o caso de uso enumera os passos a serem realizados pelo ator e cada caso possui duas listas de passos (fluxo normal e extensões. O fluxo normal é o caminho ideal a ser percorrido pelo usuário, já as extensões representam caminhos alternativos na execução de um passo ou possíveis situações de erro (VALENTE, 2020). Este documento foi realizado a partir da observação e utilização do aplicativo pelos autores. Também, levou-se em consideração a particiação de um usuário real do aplicativo.
 </div>
 <br>
 

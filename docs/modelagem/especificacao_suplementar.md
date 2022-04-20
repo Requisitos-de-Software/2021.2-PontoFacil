@@ -10,6 +10,7 @@
 | 04/03/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
 | 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
 | 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 ## 1. Definição
@@ -23,7 +24,7 @@
 &emsp;&emsp;O objetivo desse documento é definir os requisitos do aplicativo Ponto Fácil. Trabalhando ao lado dos "casos de uso" na finalidade de identificar os requisitos do sistema. Explicitar os requisitos não funcionais do sistema é importante para deixar desenvolvedores e stakeholders atualizados quanto aos atributos de qualidade, usabilidade, confiabilidade, desempenho e suportabilidade.
 
 ## 3. Metodologia
-&emsp;&emsp;O FURPS+ como já dito antes é um sistema para a classificação de requisitos, cada caracter representa categorias que podem ser usadas na definição de requisitos, bem como esclarece atributos de Qualidade de Software.
+&emsp;&emsp;O FURPS+ como já dito antes é um sistema para a classificação de requisitos, cada caracter representa categorias que podem ser usadas na definição de requisitos, bem como esclarece atributos de Qualidade de Software. Assim, com base nos documentos elaborados na técnica de elicitação e priorização dos requisitos, obteve-se a elaboração deste documento.
 
 ### 3.1 Participantes
 |Integrantes |
@@ -86,11 +87,11 @@
 
 <center>
   
-<figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
+<figcaption>Figura 1: Modelo FURPS+ resumido</figcaption>
   
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_resumo.jpg"></p><br>
   
-<figcaption>Fonte: Elaborado pelos autores</figcaption>
+<figcaption>Fonte: Elaborado pelo autor</figcaption>
   
 </center>
 
@@ -138,7 +139,7 @@
   
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_grafico.jpg"></p><br>
   
-<figcaption>Fonte: Elaborado pelos autores</figcaption>
+<figcaption>Fonte: Elaborado pelo autor</figcaption>
 
 </center>
 

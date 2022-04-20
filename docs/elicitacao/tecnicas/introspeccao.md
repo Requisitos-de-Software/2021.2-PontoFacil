@@ -36,16 +36,16 @@
 
 ## 3. Resultados
 
-| Sigla | Tipo | Requisito|
-| :-: | :-: | :-- |
-| IP1 | RF | O usuário deve ser capaz de registrar falta. | 
-| IP2 | RF | O usuário pode adicionar uma foto do registro do ponto. | 
-| IP3 |  RF | O usuário deve ser capaz de configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo). |
-| IP4 | RF | O usuário pode optar por idiomas (português e inglês). | 
-| IP5 | RF | O usuário deve ser capaz de visualizar seus registro no dia, na semana e no mês. | 
-| IP6 | RNF | O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox. | 
-| IP7 |  RF | O usuário deve ser capaz de configurar a qualidade e resolução da foto armazenada. |
-| IP8 | RNF | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância. | 
+| Id Local | Id Geral | Tipo |Requisito|
+| :-: | :-: | :-: | :-- |
+| IP1 |RF17 | RF | O usuário deve ser capaz de registrar falta. | 
+| IP2 |RF18 | RF | O usuário pode adicionar uma foto do registro do ponto. | 
+| IP3 |RF19 |  RF | O usuário deve ser capaz de configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo). |
+| IP4 |RF20 | RF | O usuário pode optar por idiomas (português e inglês). | 
+| IP5 |RF21 | RF | O usuário deve ser capaz de visualizar seus registro no dia, na semana e no mês. | 
+| IP6 |RNF07 | RNF | O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox. | 
+| IP7 |RF22 |  RF | O usuário deve ser capaz de configurar a qualidade e resolução da foto armazenada. |
+| IP8 |RNF08 | RNF | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância. | 
 
 #### **Legenda:**
 - RF: Requisito funcional

@@ -91,11 +91,11 @@
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID LOCAL | Requisito | Tipo de requisito |
-| -- | -- | -- |
-| Q01|  O aplicativo deve garantir a segurança dos dados do usuário | RNF |
-| Q02 | O Sistema deve ter layout compreensível e objetivo| RNF |
-| Q03 | O aplicativo deve possuir interface acessível e intuitiva| RNF |
+| ID LOCAL |ID Geral | Requisito | Tipo de requisito |
+| -- | -- | -- | -- |
+| Q01| RNF04 |  O aplicativo deve garantir a segurança dos dados do usuário | RNF |
+| Q02 | RNF05 | O Sistema deve ter layout compreensível e objetivo| RNF |
+| Q03 | RNF06 |O aplicativo deve possuir interface acessível e intuitiva| RNF |
 
 ## 6. Referências
 

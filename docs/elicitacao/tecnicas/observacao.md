@@ -30,20 +30,20 @@
 </p>
 
 ## 3. Resultados
-|ID| Requisito levantado | Tipo de requisito |
-| -- | -- | -- |
-| OP01 | O usuário poder ser capaz de apagar todos os registros | RF |
-| OP02 | O usuário deve poder ativar a notificação de alarme | RF |
-| OP03 | O usuário deve poder filtrar os parâmetros do gráfico de linhas (primeiro ponto, ponto de saída, saldo total, saldo do dia) | RF |
-| OP04 | O usuário deve poder registrar folga | RF |
-| OP05 | O usuário deve poder consultar o saldo de horas do dia | RF |
-| OP06 | O usuário deve poder fazer um backup dos seus registros automaticamente em nuvem ou local | RF |
-| OP07 | O usuário deve poder escrever uma descrição para cada registro | RF |
-| OP08 | O usuário deve poder registrar férias | RF |
-| OP09 | O usuário deve poder gerar um extrato dos seus registros de acordo com os parâmetros que ele quiser | RF |
-| OP10 | O usuário deve poder consultar o saldo de horas total (do mês) | RF |
-| OP11 | O usuário deve poder gerar um gráfico de horas trabalhadas em um período| RF |
-| OP12 | O usuário deve poder registrar hora extra | RF |
+|ID Local|ID Geral| Requisito levantado | Tipo de requisito |
+| -- | -- |-- | -- |
+| OP01 |RF23 | O usuário poder ser capaz de apagar todos os registros | RF |
+| OP02 |RF24 | O usuário deve poder ativar a notificação de alarme | RF |
+| OP03 |RF25 | O usuário deve poder filtrar os parâmetros do gráfico de linhas (primeiro ponto, ponto de saída, saldo total, saldo do dia) | RF |
+| OP04 |RF26 | O usuário deve poder registrar folga | RF |
+| OP05 |RF27 | O usuário deve poder consultar o saldo de horas do dia | RF |
+| OP06 |RF28 | O usuário deve poder fazer um backup dos seus registros automaticamente em nuvem ou local | RF |
+| OP07 |RF29 | O usuário deve poder escrever uma descrição para cada registro | RF |
+| OP08 |RF30 | O usuário deve poder registrar férias | RF |
+| OP09 |RF31 | O usuário deve poder gerar um extrato dos seus registros de acordo com os parâmetros que ele quiser | RF |
+| OP10 |RF32 | O usuário deve poder consultar o saldo de horas total (do mês) | RF |
+| OP11 |RF33 | O usuário deve poder gerar um gráfico de horas trabalhadas em um período| RF |
+| OP12 |RF34 | O usuário deve poder registrar hora extra | RF |
 
 
 ## 4. Legendas

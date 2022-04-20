@@ -20,8 +20,6 @@
 <p style="text-align: justify">Apesar das personas sejam perfis inventados e não correspondem a uma pessoa real, é necessário que sejam definidas com rigor e detalhes para representar os usuários que vão utilizar o sistema. Desta maneira, a concepção das personas é fruto de um trabalho de introspecção para visualizar os possíveis usuários finais e não usuários do sistema, ou seja, o objetivo, características e o perfil são reais, apenas os nomes são fictícios. Quanto mais específicas forem as personas, mais eficientes elas serão como ferramentas de desenvolvimento e comunicação (BARBOSA; SILVA, 2010, p. 176).</p>
 
 
-## 2. Personas
-
 ## 2. Metodologia
 
 <p style="text-align: justify"></p>Para desenvolvimento do atual artefato, os autores se reuniram pela ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> onde foi simulado situações onde os autores se passaram por usuários para desenvolver as características das personas. Houve a participação de um usuário real chamado Rafael Kayque, engenheiro automotivo, que utiliza o aplicativo para o controle pessoal do banco de horas. A reunião não foi gravada pois o usuário não concordou com a gravação. As imagens utilizadas foram geradas pelo sistema de inteligência artificial This Person does not Exist, são meramente ilustrativas e de pessoas não reais.
@@ -82,11 +80,11 @@
 | Ambiente |José é um idoso aposentado, antigamente trabalhava em um ministério do governo federal, prestando serviços como eletrecista. Atualmente, passa a maior parte do tempo ajudando sua esposa nos afazeres domésticos, também fica com um dos seus netos durante parte do dia. Gosta muito de sair para o mercado e para a feira, nessas situações sempre aproveita para tomar um açai bem gelado.  | 
 | Citação | "A velhice é prêmio para uns e castigo para outros"|
 
-## 2. Conclusão
+## 4. Conclusão
 <p style="text-align: justify">A elaboração das personas ajudaram a focar as decisões em torno dos componentes da aplicação, incluindo um outro contexto que considera o mundo real ao debate. O desenvolvimento das personas também ofereceram um ponto de vista rápido e barato para priorizar os recursos durante o processo de desenvolvimento. Além disso, as personas apoiaram a decisão de quais abordagens seriam adotadas com base nos comportamentos do usuário.</p>
 
 
-## 4. Referências
+## 5. Referências
 > COOPER, A.; REIMANN, R.; CRONIN, D. About Face 3: The Essentials of Interaction Design. Indianápolis: Wiley Publishing, Inc., 2007.
 
 > BARBOSA, S.; SILVA, B. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.

@@ -59,18 +59,18 @@
 ### 3.1. Casos de uso geral
 
 <div align="center">
-   <figcaption>Figura 1 - Diagrama de casos de uso</figcaption>
-    <img src="../../assets/imagens/Casos de uso -geral.svg" alt="diagrama de casos de uso">
+   <figcaption>Figura 1 - Diagrama de casos de uso geral</figcaption>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso%20-geral.svg" alt="diagrama de casos de uso">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/2ade84aa739cb7395cf80503f3d3edd3f8566105/docs/assets/imagens/diagrama_use_case_PontoFacil.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso%20-geral.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 
 
-###  3.2. Registrar o ponto 
+###  3.2.  Caso de uso - Registrar o ponto
 <br>
 
 <div align="center">
@@ -102,16 +102,16 @@
 <br>
 <br>
 
-### 3.3. Registrar falta
+### 3.3. Caso de uso - Registrar falta
 <br>
 <div align="center">
    <figcaption>Figura 3 - Diagrama de Caso de uso - Registrar falta</figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-registrar-falta.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-registrar-falta.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>
@@ -133,16 +133,16 @@
  <br>
  <br>
 
-### 3.4. Apagar registros passados
+### 3.4. Caso de uso -  Apagar registros passados
 <br>
 <div align="center">
    <figcaption>Figura 4 - Diagrama de Caso de uso -  Apagar registros passados</figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-apagar-registros-passados.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-apagar-registros-passados.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>
@@ -161,16 +161,16 @@
  <br>
 
 
-### 3.5. Ativar a notificação de alarme 
+### 3.5. Caso de uso -  Ativar a notificação de alarme 
 <br>
 <div align="center">
    <figcaption>Figura 5 - Diagrama de Caso de uso -  Ativar a notificação de alarme </figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-ativar-notificacoes.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-ativar-notificacoes.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>
@@ -188,16 +188,16 @@
  <br>
  <br>
 
-### 3.6. Realizar Backup dos registros
+### 3.6. Caso de uso -  Realizar Backup dos registros
 <br>
 <div align="center">
    <figcaption>Figura 6 - Diagrama de Caso de uso -  Realizar Backup dos registros </figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-fazer-backup.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-fazer-backup.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>
@@ -217,16 +217,16 @@
 
 
 
-### 3.7. Gerar extrato de registros
+### 3.7. Caso de uso -  Gerar extrato de registros
 <br>
 <div align="center">
    <figcaption>Figura 7 - Diagrama de Caso de uso -  Gerar extrato de registros </figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-gerar-extrato.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-gerar-extrato.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>
@@ -247,16 +247,16 @@
  <br>
  <br>
 
-### 3.8. Visualizar inconsistências nos registros de ponto  
+### 3.8.  Caso de uso -  Visualizar inconsistências nos registros de ponto
 <br>
 <div align="center">
    <figcaption>Figura 8 - Diagrama de Caso de uso -  Visualizar inconsistências nos registros de ponto </figcaption>
-    <img src="../../assets/imagens/">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-inconsistencias.svg">
    <figcaption>Fonte: Elaboração dos autores.</figcaption>
 
    <br>
    <br>
-  <a href="" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
+  <a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/d1956781d770b34f44c2656ee6ad5566d9e18825/docs/assets/imagens/Casos%20de%20uso-inconsistencias.svg" target="_blank">Clique aqui</a> para ver o diagrama em tela cheia.
 
 </div>
 <br>

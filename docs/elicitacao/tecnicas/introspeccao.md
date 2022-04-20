@@ -8,6 +8,7 @@
 | 18/02/2022 |  0.2   | Tabela de requisitos e legenda |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 18/02/2022 |  0.3   | Ajuste nas metodologias e participantes |  [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)   |
 | 18/02/2022 |  0.4   | Revisão do documento e ajustes ortográficos |  [José Luís](https://github.com/joseluis-rt)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 ---
 
@@ -20,7 +21,7 @@
 ## 2. Metodologia
 
 <p style="text-align: justify">
-    O grupo realizou uma reunião no aplicativo Discord para a execução da introspecção e também utilizou ferramenta jamboard, que oferece uma quadro interativo para exposição de ideias. Assim, pode-se realizar a instrospecção com a participação de todos os integrantes. 
+    O grupo realizou uma reunião no aplicativo <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a>  para a execução da introspecção e também utilizou ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">jamboard</a> , que oferece uma quadro interativo para exposição de ideias. Assim, pode-se realizar a instrospecção com a participação de todos os integrantes que simularam situações onde o usuário poderia fazer. 
 </p>
 
 
@@ -55,4 +56,4 @@
 
 ## 4. Referências
 
-<p style="text-align: justify"> GOGUEN; J. A. and LINDE; C., "Techniques for requirements elicitation," [1993] Proceedings of the IEEE International Symposium on Requirements Engineering, 1993, p. 152-164, doi: 10.1109/ISRE 1993.324822.</p>
+> <p style="text-align: justify"> GOGUEN; J. A. and LINDE; C., "Techniques for requirements elicitation," [1993] Proceedings of the IEEE International Symposium on Requirements Engineering, 1993, p. 152-164, doi: 10.1109/ISRE 1993.324822.</p>

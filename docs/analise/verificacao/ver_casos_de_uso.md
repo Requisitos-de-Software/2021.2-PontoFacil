@@ -148,20 +148,27 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
+### 2.12 Checklist Caso de uso 06 - Gerar extrato de registros
 
+<center>
 
+<figcaption>Figura 12: Checklist Caso de uso 06 - Gerar extrato de registros</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_06_checklist.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
-
-### Caso de uso 05 - Realizar Backup dos registros
-|Item | Resposta | 
-| -- | -- |
-|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
-|O nome do caso de uso é de fácil compreensão?|	Sim|
-|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
-|Existe diferenciação do fluxo normal e alternativo?|	Sim|
-|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+</center>
 
 <br>
+
+### 2.13  Gráfico de verificação Caso de uso 06 - Gerar extrato de registros
+
+<center>
+<figcaption>Figura 13: Gráfico de verificação Caso de uso 06 - Gerar extrato de registros</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_06.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
 
 ### Caso de uso 06 - Gerar extrato de registros
 |Item | Resposta | 

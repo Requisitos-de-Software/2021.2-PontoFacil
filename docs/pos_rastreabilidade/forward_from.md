@@ -117,7 +117,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de retorno do almoço para que eu saiba quando eu voltei do almoço.</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-forward-from/docs/assets/imagens/07.gif" >TE07</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>

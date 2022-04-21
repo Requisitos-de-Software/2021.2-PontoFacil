@@ -23,7 +23,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <figcaption>Figura 1: Possíveis Erros. </figcaption>
 
-<p align = "center"><img src="possiveis_erros_casos_de_uso.png"></p> <br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/possiveis_erros_casos_de_uso.PNG"></p> <br>
 
 
 
@@ -33,23 +33,23 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.2 Checklist
+### 2.2 Checklist Caso de uso 01 -  Registrar o ponto
 
 <center>
 
 <figcaption>Figura 2: Checklist Caso de uso 01 -  Registrar o ponto</figcaption>
-<p align = "center"><img src=""></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_01_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
 
 <br>
 
-### 2.3  Gráfico
+### 2.3  Gráfico de verificação Caso de uso 01 -  Registrar o ponto
 
 <center>
-<figcaption>Figura 3: Gráfico de verificação NFR Framework.</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/ver_nfr_framework_grafico.PNG"></p><br>
+<figcaption>Figura 3: Gráfico de verificação Caso de uso 01 -  Registrar o ponto</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_01.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

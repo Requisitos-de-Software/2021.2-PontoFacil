@@ -54,10 +54,10 @@
     <thead>
         <tr>
             <th style="text-align:center">Épico</th>
-            <th style="text-align:center">Tela(s)</th>
             <th style="text-align:center">Requisito</th>	
             <th style="text-align:center">US ID</th>
             <th style="text-align:center">História de Usuário</th>
+            <th style="text-align:center">Tela(s)</th>
             <th style="text-align:center">Categoria</th>
              <th style="text-align:center">Elo</th>
             <th style="text-align:center"></th>
@@ -66,10 +66,10 @@
     <tbody >
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="../../modelagem/backlog/backlog/#epico-01" >Épico 01 -  Gerenciamento de Registros </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=2%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE01</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A334&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE04</a><br> <a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF01</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo usuário do sistema,desejo registrar o ponto de entrada, para que eu saiba quando iniciei o trabalho.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso </td>
         </tr>
@@ -77,6 +77,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow">RF02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us02/" >US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de saída para que eu saiba quando eu saí do trabalho.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -84,6 +85,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us03/" >US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de saída para o almoço para que eu saiba quando eu sai para almoçar.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -91,6 +93,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us04/" >US04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo guardar informações do horário de trabalho para cada dia da semana que eu mantenha os registros organizados e separados.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -98,6 +101,7 @@
            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us05/" >US05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo apagar registros passados para que eu possa manter apenas os registros desejados.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -105,6 +109,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF06</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us06/" >US06</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo copiar registros passados para que eu possa mover o registro para outro dia.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -112,6 +117,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de retorno do almoço para que eu saiba quando eu voltei do almoço.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -119,6 +125,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us08/" >US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto eletrônico através de uma Tag NFC para que eu tenha mais praticidade e agilidade no registro.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -126,6 +133,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us09/" >US09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo zerar o saldo de horas total para que eu possa recomeçar os registros do zero.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso, Agregação</td>
         </tr>
@@ -133,6 +141,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us10/" >US10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar falta para que eu saiba quando eu faltei.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -140,6 +149,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us11/" >US11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo adicionar uma foto do registro do ponto para que tenha certeza que registrei o ponto.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -147,6 +157,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us12/" >US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo apagar todos os registros para que eu possa apagar tudo que registrei.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Agregação, Recurso</td>
         </tr>
@@ -154,6 +165,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us13/" >US13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar folga para que eu saiba quando eu folguei.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -161,6 +173,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF29</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us14/" >US14</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo editar registros passados que possa corrigir erros que cometi.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Recurso</td>
         </tr>
@@ -168,6 +181,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF30</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us15/" >US15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar férias para que eu saiba quando eu entrei de férias.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -175,6 +189,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF31</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us16/" >US16</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo escrever uma descrição para cada registro, de forma que possa descrever mais detalhadamente informações sobre o registro.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -182,6 +197,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF34</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us17/" >US17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar hora extra para que eu saiba quantas horas extra eu trabalhei.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td>
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -189,10 +205,10 @@
        </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="../../modelagem/backlog/backlog/#epico-02" >Épico 02 - Backup </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=271%3A53&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us18/">US18</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup,para que possa escolher a hora e o dia mais adequado para backup.</td>    
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup,para que possa escolher a hora e o dia mais adequado para backup.</td>   
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -200,6 +216,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RNF7</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us19/" >US19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo armazenar o backup em contas do Google Drive ou Dropbox, para que eu tenha os meus dados salvos em nuvem.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -207,6 +224,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF28</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us20/" >US20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo fazer backup dos meus registros automaticamente em nuvem ou local, para que eu tenha mais de um tipo de cópia de segurança.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -214,6 +232,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us21/" >US21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo restaurar um backup, para que eu possa resgatar registros anteriormente salvos.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Agregação, Recurso</td>
         </tr>
@@ -221,10 +240,10 @@
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="../../modelagem/backlog/backlog/#epico-03" >Épico 03 - Definição de Padrões  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A155&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE14</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A284&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us22/">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia , para que eu possa controlar os horários de acordo com a minha rotina.</td>  
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
@@ -232,6 +251,7 @@
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us23/" >US23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo alterar as opções de intervalo, como por exemplo definir um horário de intervalo mínimo, para que eu possa adaptar os registros de acordo com a minha rotina.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -239,6 +259,7 @@
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us24/" >US24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar a tolerância da jornada de trabalho, para que eu tenha controle total sobre as horas trabalhadas. </td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -246,6 +267,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us25/" >US25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo), para que eu escolha qual é a notificação mais adequada para mim.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -253,6 +275,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us26/" >US26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar a qualidade e resolução da foto armazenada, para que eu possa escolher a qualidade desejada na foto.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -260,6 +283,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us27/" >US27</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo ativar a notificação de alarme , para que eu seja avisado acerca de alguma atividade que devo realizar</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -267,10 +291,10 @@
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="../../modelagem/backlog/backlog/#epico-04" >Épico 04 - Visualização de Registros  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=2%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE01</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A178&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE07</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A297&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE09</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A401&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE10</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=20%3A84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE06</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A380&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE12</a><br><a href="https://www.figma.com/proto/SW8QdAxkEQd84Y7IHtT2CH/Requisitos?node-id=272%3A419&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A6" >TE13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us28/">US28</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario, desejo visualizar inconsistências no registro de ponto, para que eu possa corrigir os erros no registro de ponto.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Ambiental , Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso, Agregação</td>    
         </tr>
@@ -278,6 +302,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF16</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us29/" >US29</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo visualizar meu banco de horas no período desejado no formato de gráfico de linhas, para que eu tenha noção do volume de horas trabalhadas.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Agregação</td>
         </tr>
@@ -285,6 +310,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us30/" >US30</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo filtrar os parâmetros do gráfico de linhas, para que eu possa inferir informações mais específicas no gráfico.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Agregação</td>
         </tr>
@@ -292,6 +318,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us31/" >US31</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo escolher diferentes opções de idiomas, para que eu possa entender as informações apresentadas.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Ambiental</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Recurso</td>
         </tr>
@@ -299,6 +326,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us32/" >US32</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo visualizar meus registros no dia, na semana e no mês, para que eu acompanhe meu volume de horas trabalhadas no período que desejo.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Agregação </td>
         </tr>
@@ -306,6 +334,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF27</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us33/" >US33</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo  consultar meu saldo de horas do dia, para que eu acompanhe meu volume de horas trabalhadas .</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>
@@ -313,6 +342,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF32</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us34/" >US34</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo  gerar um extrato dos meus registros de ponto em qualquer período determinado, para que eu possa apresentar ao meu empregador.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Agregação, Satisfação, Recurso </td>
         </tr>
@@ -320,6 +350,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../elicitacao/priorizacao/moscow" >RF33</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../../modelagem/backlog/userstories/us35/" >US35</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo consultar o saldo de horas total (do mês), para que eu acompanhe meu volume de horas mensal trabalhadas.</td>
+             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="" >TE02</a></td> 
              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento, Organizacional</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>
         </tr>

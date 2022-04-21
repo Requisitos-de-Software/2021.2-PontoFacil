@@ -57,16 +57,31 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
+### 2.4 Checklist Caso de uso 02 -  Registrar falta
 
-### Caso de uso 02 -  Registrar falta
-|Item | Resposta | 
-| -- | -- |
-|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
-|O nome do caso de uso é de fácil compreensão?|	Sim|
-|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
-|Existe diferenciação do fluxo normal e alternativo?|	Sim|
-|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+<center>
+
+<figcaption>Figura 2: Checklist Caso de uso 02 -  Registrar falta</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02_checklist.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
 <br>
+
+### 2.5  Gráfico de verificação Caso de uso 02 -  Registrar falta
+
+<center>
+<figcaption>Figura 3: Gráfico de verificação Caso de uso 02 -  Registrar falta</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+<br>
+
+
 
 ### Caso de uso 03 - Apagar registros passados
 |Item | Resposta | 

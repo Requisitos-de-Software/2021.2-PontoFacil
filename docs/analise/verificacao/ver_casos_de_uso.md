@@ -6,7 +6,7 @@
 | -- | -- | -- | -- |
 | 22/03/2022 |  0.1   | Criação do documento |  [Lorenzo Santos](https://github.com/lorenzo7377) |
 | 23/03/2022 |  0.2   | Revisão (Obs: documento não padronizado) |  [Eduardo Maia](https://github.com/eduardomr) |
-
+| 20/04/2022 |  0.3  | Padronização da verificação |  [Kayro César](https://github.com/kayrocesar) |
 
 
 ## 1. Introdução

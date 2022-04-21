@@ -190,23 +190,6 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### Cenário 06
-|Item | Resposta | 
-| -- | -- |
-| O título está bem escrito? |  Sim| 
-| O objetivo é claro? | Sim| |
-|Dentro do contexto, há pós-condição?|	Sim|
-|Dentro do contexto, há pré-condição?|	Sim|
-|Os atores foram citados de forma correta?|	Sim|
-|Os recursos foram listados de maneira coerente?|	Sim|
-|Os episódios estão listados de forma correta e organizada?|	Sim|
-|O cenário possui restrições?|	Sim|
-|As restrições estão escritas de maneira que facilite a compreensão?|	Não|
-|As exceções estão bem organizadas e bem escritas?|	Não|
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não|
-
-<br>
-
 ## 4. Conclusão
 <p style="text-align: justify">A partir do checklist, podemos perceber que as exceções e restrições foram escritas de forma muito genérica, exceto no cénario 03, onde a restrição foi melhor escrita.</p>
 

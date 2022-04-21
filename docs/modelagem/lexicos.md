@@ -140,8 +140,7 @@ Ocorre quando deseja-se verificar as informações sobre a carga horária do tra
 
 ## 4. Referências
 
->  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br><br>
+>  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br>
 
->  Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
+>  SAYÃO, Miriam. ; CARVALHO, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
 
->  Aplicativo <a href="https://apps.apple.com/br/app/ponto-f%C3%A1cil-banco-de-horas/id1480598779">PontoFácil</a>

@@ -51,4 +51,8 @@ Um Rich Picture é um desenho que visa representar os principais elementos de um
    <div align="center"><figcaption> Fonte : Elaboração própria <figcaption> </div>
 
  
+## 3. Referências
 
+> STEVENS, Kaye. Rich Pictures.7 jul. 2020. Disponível em: https://www.betterevaluation.org/en/evaluation-options/richpictures. Acesso em: 2 fev. 2022
+
+> RICH pictures. [S. l.], 16 fev. 2018. Disponível em: http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html. Acesso em: 2 fev. 2022.

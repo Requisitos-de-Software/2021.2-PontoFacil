@@ -4,8 +4,8 @@
 
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
-| 02/02/2022 | 0.1 | Criação da primeira versão do documento | [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
-| 03/02/2022 | 0.2 | Criação da política de branchs | [@Lorenzo7377](https://github.com/Lorenzo7377) |
+| 02/02/2022 | 0.1 | Criação da primeira versão do documento |[Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
+| 03/02/2022 | 0.2 | Criação da política de branchs | [Lorenzo Santos](https://github.com/lorenzo7377)   |
 
 
 ## Introdução

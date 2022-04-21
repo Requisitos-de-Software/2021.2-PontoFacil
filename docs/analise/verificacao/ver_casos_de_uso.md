@@ -126,6 +126,30 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
+### 2.10 Checklist Caso de uso 05 - Realizar Backup dos registros
+
+<center>
+
+<figcaption>Figura 10: Checklist Caso de uso 05 - Realizar Backup dos registros</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_05_checklist.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+<br>
+
+### 2.11  Gráfico de verificação Caso de uso 05 - Realizar Backup dos registros
+
+<center>
+<figcaption>Figura 11: Gráfico de verificação Caso de uso 05 - Realizar Backup dos registros</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_05.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+
+
 
 
 ### Caso de uso 05 - Realizar Backup dos registros

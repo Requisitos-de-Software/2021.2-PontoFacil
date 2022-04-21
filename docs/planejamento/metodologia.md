@@ -117,3 +117,8 @@ git add .
 ```
 git push
 ```
+
+##  Referências
+
+> SCHWABER, Ken; SUTHERLAND , Jeff. The 2020 Scrum GuideTM. [S. l.], 2 jan. 2020. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 3 fev. 2022.
+

@@ -190,9 +190,9 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-## 4. Conclusão
+## 3. Conclusão
 <p style="text-align: justify">A partir do checklist, podemos perceber que as exceções e restrições foram escritas de forma muito genérica, exceto no cénario 03, onde a restrição foi melhor escrita.</p>
 
-## 5. Referências
+## 4. Referências
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

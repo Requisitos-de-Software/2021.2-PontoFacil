@@ -17,7 +17,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ## 2. Metodologia
 <p style="text-align: justify">Será utilizada a técnica de inspeção no documento de casos de usos, analisando a presença de algumas características vitais através de uma checklist.</p>
 
-### 2.1 Possíveis Erros
+## Possíveis Erros
 
 <center>
 
@@ -33,7 +33,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.2 Checklist Caso de uso 01 -  Registrar o ponto
+###  Caso de uso 01 - Registrar o ponto
+#### Checklist 
 
 <center>
 
@@ -45,7 +46,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.3  Gráfico de verificação Caso de uso 01 -  Registrar o ponto
+#### Gráfico 
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação Caso de uso 01 -  Registrar o ponto</figcaption>
@@ -57,7 +58,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.4 Checklist Caso de uso 02 -  Registrar falta
+### Caso de uso 02 -  Registrar falta
+####  Checklist 
 
 <center>
 
@@ -69,7 +71,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.5  Gráfico de verificação Caso de uso 02 -  Registrar falta
+#### Gráfico 
 
 <center>
 <figcaption>Figura 5: Gráfico de verificação Caso de uso 02 -  Registrar falta</figcaption>
@@ -81,7 +83,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.6 Checklist Caso de uso 03 - Apagar registros passados
+### Caso de uso 03 - Apagar registros passados
+#### Checklist 
 
 <center>
 
@@ -93,7 +96,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.7  Gráfico de verificação Caso de uso 03 - Apagar registros passados
+#### Gráfico 
 
 <center>
 <figcaption>Figura 7: Gráfico de verificação Caso de uso 03 - Apagar registros passados</figcaption>
@@ -103,8 +106,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
-
-### 2.8 Checklist Caso de uso 04 - Ativar a notificação de alarme
+### Caso de uso 04 - Ativar a notificação de alarme
+#### Checklist 
 
 <center>
 
@@ -116,7 +119,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.9  Gráfico de verificação Caso de uso 04 - Ativar a notificação de alarme
+#### Gráfico 
 
 <center>
 <figcaption>Figura 9: Gráfico de verificação Caso de uso 04 - Ativar a notificação de alarme</figcaption>
@@ -126,7 +129,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
-### 2.10 Checklist Caso de uso 05 - Realizar Backup dos registros
+###  Caso de uso 05 - Realizar Backup dos registros
+#### Checklist 
 
 <center>
 
@@ -138,7 +142,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.11  Gráfico de verificação Caso de uso 05 - Realizar Backup dos registros
+#### Gráfico 
 
 <center>
 <figcaption>Figura 11: Gráfico de verificação Caso de uso 05 - Realizar Backup dos registros</figcaption>
@@ -148,7 +152,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
-### 2.12 Checklist Caso de uso 06 - Gerar extrato de registros
+### Caso de uso 06 - Gerar extrato de registros
+#### Checklist 
 
 <center>
 
@@ -160,7 +165,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.13  Gráfico de verificação Caso de uso 06 - Gerar extrato de registros
+#### Gráfico 
 
 <center>
 <figcaption>Figura 13: Gráfico de verificação Caso de uso 06 - Gerar extrato de registros</figcaption>
@@ -170,7 +175,8 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 </center>
 
-### 2.14 Checklist Caso de uso 07 - Visualizar inconsistências nos registros de ponto
+### Caso de uso 07 - Visualizar inconsistências nos registros de ponto
+#### Checklist 
 
 <center>
 
@@ -182,7 +188,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-### 2.15  Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto
+#### Gráfico 
 
 <center>
 <figcaption>Figura 15: Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
@@ -195,9 +201,9 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <br>
 
-## 4. Conclusão
+## 3. Conclusão
 <p style="text-align: justify">A partir do checklist, podemos perceber que o grupo deixou de explicar em detalhes cada caso de uso, pois julgou que o título já seria o suficiente.</p>
 
-## 5. Referências
+## 4. Referências
 
 > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

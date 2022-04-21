@@ -23,7 +23,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <figcaption>Figura 1: Possíveis Erros. </figcaption>
 
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/possiveis_erros_casos_de_uso.PNG"></p> <br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/possiveis_erros_casos_de_uso.PNG"></p> <br>
 
 
 
@@ -39,7 +39,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 2: Checklist Caso de uso 01 -  Registrar o ponto</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_01_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_01_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -50,7 +50,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação Caso de uso 01 -  Registrar o ponto</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_01.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_01.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -64,7 +64,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 4: Checklist Caso de uso 02 -  Registrar falta</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_02_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -75,7 +75,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 5: Gráfico de verificação Caso de uso 02 -  Registrar falta</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_02.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -89,7 +89,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 6: Checklist Caso de uso 03 - Apagar registros passados</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_03_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_03_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -100,7 +100,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 7: Gráfico de verificação Caso de uso 03 - Apagar registros passados</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_03.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_03.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -112,7 +112,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 8: Checklist Caso de uso 04 - Ativar a notificação de alarme</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_04_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_04_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -123,7 +123,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 9: Gráfico de verificação Caso de uso 04 - Ativar a notificação de alarme</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_04.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_04.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -135,7 +135,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 10: Checklist Caso de uso 05 - Realizar Backup dos registros</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_05_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_05_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -146,7 +146,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 11: Gráfico de verificação Caso de uso 05 - Realizar Backup dos registros</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_05.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_05.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -158,7 +158,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 12: Checklist Caso de uso 06 - Gerar extrato de registros</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_06_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_06_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -169,7 +169,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 13: Gráfico de verificação Caso de uso 06 - Gerar extrato de registros</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_06.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_06.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -181,7 +181,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 14: Checklist Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_07_checklist.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_07_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -192,7 +192,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 15: Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_07.PNG"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master//docs/assets/imagens/ver_caso_de_uso_07.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

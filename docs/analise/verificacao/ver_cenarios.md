@@ -39,7 +39,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 2: Checklist Cenário 01</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario01_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario01_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -50,7 +50,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação Cenário 01</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_01_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_01_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -65,7 +65,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 4: Checklist Cenário 02</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario02_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario02_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -76,7 +76,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 5: Gráfico de verificação Cenário 02</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_02_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_02_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -91,7 +91,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 6: Checklist Cenário 03</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario03_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario03_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -102,7 +102,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 7: Gráfico de verificação Cenário 03</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_03_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_03_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -118,7 +118,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 8: Checklist Cenário 04</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario04_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario04_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -129,7 +129,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 9: Gráfico de verificação Cenário 04</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_04_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_04_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -145,7 +145,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 10: Checklist Cenário 05</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario05_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario05_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -156,7 +156,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 11: Gráfico de verificação Cenário 05</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_05_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_05_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -171,7 +171,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 12: Checklist Cenário 06</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario06_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario06_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -182,7 +182,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 13: Gráfico de verificação Cenário 06</figcaption>
-<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_cenario_06_grafico.PNG?raw=true" ></p><br>
+<p><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_cenario_06_grafico.PNG?raw=true" ></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

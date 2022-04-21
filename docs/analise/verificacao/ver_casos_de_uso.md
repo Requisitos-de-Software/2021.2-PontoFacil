@@ -174,7 +174,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 
-<figcaption>Figura 12: Checklist Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
+<figcaption>Figura 14: Checklist Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_07_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -185,7 +185,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ### 2.15  Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto
 
 <center>
-<figcaption>Figura 13: Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
+<figcaption>Figura 15: Gráfico de verificação Caso de uso 07 - Visualizar inconsistências nos registros de ponto</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_07.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>

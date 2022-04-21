@@ -111,23 +111,6 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <br>
 
 
-### Cenário 03
-|Item | Resposta | 
-| -- | -- |
-| O título está bem escrito? |  Sim| 
-| O objetivo é claro? | Sim| |
-|Dentro do contexto, há pós-condição?|	Sim|
-|Dentro do contexto, há pré-condição?|	Sim|
-|Os atores foram citados de forma correta?|	Sim|
-|Os recursos foram listados de maneira coerente?|	Sim|
-|Os episódios estão listados de forma correta e organizada?|	Sim|
-|O cenário possui restrições?|	Sim|
-|As restrições estão escritas de maneira que facilite a compreensão?|	Sim|
-|As exceções estão bem organizadas e bem escritas?|	Sim|
-|Todos os termos importantes para a compreensão estão linkados aos léxicos?|	Não|
-
-<br>
-
 ### Cenário 04
 
 ####  Checklist 

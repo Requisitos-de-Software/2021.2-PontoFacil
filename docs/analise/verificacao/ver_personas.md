@@ -39,7 +39,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 <center>
 
 <figcaption>Figura 2: Checklist Personas</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_personas_resultado.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_personas_resultado.PNG?raw=true"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
 </center>
@@ -50,7 +50,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 <figcaption>Figura 3: Gráfico de verificação Personas.</figcaption>
-<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/correcao-doc-verificacao/docs/assets/imagens/ver_personas_grafico.PNG?raw=true"></p><br>
+<p align = "center"><img src="https://github.com/Requisitos-de-Software/2021.2-PontoFacil/blob/master//docs/assets/imagens/ver_personas_grafico.PNG?raw=true"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

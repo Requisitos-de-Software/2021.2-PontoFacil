@@ -102,4 +102,4 @@ O questionário foi divulgado pelas redes sociais e em grupos de usuários frequ
 
 ## 6. Referências
 
-> [1] - C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016
+> C. E. Vazquez; G.S.Simões,Engenharia de Requisitos: software orientado ao negócio.    Brasport, 2016

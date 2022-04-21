@@ -20,26 +20,27 @@ Para a construção do trabalho da disciplina como um todo é necessário o uso 
 
 <center>
 
+<br>
 
 <figcaption>Tabela 1: Ferramentas utilizadas no projeto</figcaption>
 
 | Ícone |  Ferramenta  |  Função  | 
 | :---: |  :---:  |  :---: |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-github.png" width="70">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-whatsapp.jpg" width="50">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
-| <img  src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/drivepng.png" width="50"> | Google Drive | Ferramenta utilizada para compartilhamento de documentos e imagens referentes ao projeto entre os membros da equipe |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-discord.png" width="50">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
-| <img  src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-youtube.png" width="50" > | YouTube | Ferramenta utilizada para hospedar as gravações das apresentações |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-teams.png" width="45">| Teams | Ferramenta utilizada para gravação de apresentações   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-mkdocs.png" width="50">| Mkdocs | Ferramenta utilizada para contruir a Wiki do projeto   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-lucid.png" width="50">| LucidChart | Ferramenta utilizada para contruir diagramas em geral  |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-vscode.png" width="40">| Visual Studio Code  | Ferramenta utilizada edição dos códigos do projeto|
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/Diagrams.net_Logo.png" width="50"> | Diagrams.net | Ferramenta utilizada para criação de diagramas UML durante do projeto |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-sheets.png" width="30">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-figma.png" width="30">| Figma | Ferramenta utilizada para construir interfaces de interação com usuário   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-canva.png" width="80">| Canva | Ferramenta utilizada para fazer slides de apresentação do grupo   |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-generator.png" width="60">| Generated Photos | Ferramenta utilizada para gerar faces das personas |
-|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-ferramentas/docs/assets/logos/logo-jamboard.png" width="60">| Google Jamboard | Ferramenta utilizada para construir quadros interativos da equipe |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-github.png" width="70">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-whatsapp.jpg" width="50">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
+| <img  src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/drivepng.png" width="50"> | Google Drive | Ferramenta utilizada para compartilhamento de documentos e imagens referentes ao projeto entre os membros da equipe |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-discord.png" width="50">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
+| <img  src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-youtube.png" width="50" > | YouTube | Ferramenta utilizada para hospedar as gravações das apresentações |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-teams.png" width="45">| Teams | Ferramenta utilizada para gravação de apresentações   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-mkdocs.png" width="50">| Mkdocs | Ferramenta utilizada para contruir a Wiki do projeto   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-lucid.png" width="50">| LucidChart | Ferramenta utilizada para contruir diagramas em geral  |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-vscode.png" width="40">| Visual Studio Code  | Ferramenta utilizada edição dos códigos do projeto|
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/Diagrams.net_Logo.png" width="50"> | Diagrams.net | Ferramenta utilizada para criação de diagramas UML durante do projeto |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-sheets.png" width="30">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-figma.png" width="30">| Figma | Ferramenta utilizada para construir interfaces de interação com usuário   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-canva.png" width="80">| Canva | Ferramenta utilizada para fazer slides de apresentação do grupo   |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-generator.png" width="60">| Generated Photos | Ferramenta utilizada para gerar faces das personas |
+|<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/logos/logo-jamboard.png" width="60">| Google Jamboard | Ferramenta utilizada para construir quadros interativos da equipe |
 
 <figcaption>Fonte: Elaboração dos autores</figcaption>
 

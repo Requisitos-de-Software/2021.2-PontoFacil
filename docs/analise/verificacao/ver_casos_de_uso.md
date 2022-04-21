@@ -61,7 +61,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 
 <center>
 
-<figcaption>Figura 2: Checklist Caso de uso 02 -  Registrar falta</figcaption>
+<figcaption>Figura 4: Checklist Caso de uso 02 -  Registrar falta</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02_checklist.PNG"></p><br>
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
@@ -72,7 +72,7 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 ### 2.5  Gráfico de verificação Caso de uso 02 -  Registrar falta
 
 <center>
-<figcaption>Figura 3: Gráfico de verificação Caso de uso 02 -  Registrar falta</figcaption>
+<figcaption>Figura 5: Gráfico de verificação Caso de uso 02 -  Registrar falta</figcaption>
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_02.PNG"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
@@ -80,6 +80,29 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 </center>
 
 <br>
+
+### 2.6 Checklist Caso de uso 03 - Apagar registros passados
+
+<center>
+
+<figcaption>Figura 6: Checklist Caso de uso 03 - Apagar registros passados</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_03_checklist.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+<br>
+
+### 2.7  Gráfico de verificação Caso de uso 03 - Apagar registros passados
+
+<center>
+<figcaption>Figura 7: Gráfico de verificação Caso de uso 03 - Apagar registros passados</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_03.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
 
 
 

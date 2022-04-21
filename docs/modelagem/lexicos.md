@@ -8,6 +8,7 @@
 | 02/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 06/03/2022 |  0.2   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 ## 1. Introdução

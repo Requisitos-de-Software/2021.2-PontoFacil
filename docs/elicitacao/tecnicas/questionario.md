@@ -9,6 +9,7 @@
 | 18/02/2022 |  0.2   | Adição de imagens e participantes |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.3   | Revisão |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 

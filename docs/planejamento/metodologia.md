@@ -6,6 +6,7 @@
 | :- | :- | :- | :- |
 | 02/02/2022 | 0.1 | Criação da primeira versão do documento |[Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
 | 03/02/2022 | 0.2 | Criação da política de branchs | [Lorenzo Santos](https://github.com/lorenzo7377)   |
+| 21/04/2022 |  0.3   |    Correção dos nomes e das referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 ## Introdução

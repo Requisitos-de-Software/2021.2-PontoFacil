@@ -11,6 +11,7 @@
 | 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
 | 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 ## 1. Definição

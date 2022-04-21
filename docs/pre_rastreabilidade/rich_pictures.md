@@ -9,6 +9,7 @@
 | 03/01/2022 |  2.0   |  RichPicture aprimorado no [Figma]("https://www.figma.com/")  |   [Kayro César](https://github.com/kayrocesar)|
 | 18/02/2022 |  2.1  | Correção de estruturação do documento , inserção de legenda e fonte nas imagens  |  [Kayro César](https://github.com/kayrocesar)|
 | 20/04/2022 |  3.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  3.1   |    Inserção das Referências  | [Kayro César](https://github.com/kayrocesar) |
 
 ## 1. Introdução
 <p align="justify">

@@ -104,29 +104,29 @@ Esse documento visa a verificação de possíveis erros e incoerências no docum
 </center>
 
 
+### 2.8 Checklist Caso de uso 04 - Ativar a notificação de alarme
 
+<center>
 
-### Caso de uso 03 - Apagar registros passados
-|Item | Resposta | 
-| -- | -- |
-|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
-|O nome do caso de uso é de fácil compreensão?|	Sim|
-|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
-|Existe diferenciação do fluxo normal e alternativo?|	Sim|
-|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+<figcaption>Figura 8: Checklist Caso de uso 04 - Ativar a notificação de alarme</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_04_checklist.PNG"></p><br>
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
 
-<br>
-
-### Caso de uso 04 - Ativar a notificação de alarme
-|Item | Resposta | 
-| -- | -- |
-|O nome do caso de uso utiliza verbos no infinitivo ?|	Sim|
-|O nome do caso de uso é de fácil compreensão?|	Sim|
-|Existe breve descrição de casos de uso, que especifica de forma clara o que eles representam?|	Não |
-|Existe diferenciação do fluxo normal e alternativo?|	Sim|
-|O diagrama de caso de uso está coerente com os casos de uso?|	Sim|
+</center>
 
 <br>
+
+### 2.9  Gráfico de verificação Caso de uso 04 - Ativar a notificação de alarme
+
+<center>
+<figcaption>Figura 9: Gráfico de verificação Caso de uso 04 - Ativar a notificação de alarme</figcaption>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/correcao-doc-verificacao/docs/assets/imagens/ver_caso_de_uso_04.PNG"></p><br>
+
+<figcaption>Fonte: Elaborado pelos autores.</figcaption>
+
+</center>
+
+
 
 ### Caso de uso 05 - Realizar Backup dos registros
 |Item | Resposta | 

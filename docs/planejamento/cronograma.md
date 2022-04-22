@@ -53,26 +53,27 @@
 | II | Elicitação  | Observação | [Lorenzo][lorenzo-github] | [Kayro César][kayro-github] |
 | II | Elicitação | Instrospecção | [Klyssmann Oliveira][klyssmann-github] | [José Luís][jose-github] |
 | II | Elicitação  | Questionário | [José Luís][jose-github]  | [Eduardo Maia][eduardo-github] |
-| III | Modelagem de Requisitos | Brainstorming | Todos os integrantes | Sem reviror |
+| III | Modelagem de Requisitos | Brainstorming | Todos os integrantes | Sem revisor |
 | III | Modelagem de Requisitos | Cenários | [Lorenzo][lorenzo-github] | [Klyssmann Oliveira][klyssmann-github] |
 | III | Modelagem de Requisitos | Léxicos | [Eduardo Maia][eduardo-github] | [Lorenzo][lorenzo-github] |
 | III | Modelagem de Requisitos | Casos de uso | [Klyssmann Oliveira][klyssmann-github]  e [Kayro César][kayro-github] | [Eduardo Maia][eduardo-github] e [José Luís][jose-github] |
 | III | Modelagem de Requisitos | Especificação suplementar | [José Luís][jose-github] | [Kayro César][kayro-github]  |
 | IV    | Modelagem de Requisitos - Ágil | História de Usuário/Backlog | [Lorenzo][lorenzo-github]; [Eduardo Maia][eduardo-github] e [Kayro César][kayro-github] | [José Luís][jose-github] e [Klyssmann Oliveira][klyssmann-github] |
 | IV    | Modelagem de Requisitos - Ágil | NFR Framework | [José Luís][jose-github] e [Klyssmann Oliveira][klyssmann-github] | [Eduardo Maia][eduardo-github] e [Kayro César][kayro-github] |
-| V    | Análise de Requisitos | 5w2h |  [Eduardo Maia][eduardo-github] |  [Klyssmann Oliveira][klyssmann-github] |
-| V    | Análise de Requisitos | Rich Picture |  [José Luís][jose-github] |  [Lorenzo][lorenzo-github] |
-| V    | Análise de Requisitos | NFR Framework |  [Kayro César][kayro-github] |  [Klyssmann Oliveira][klyssmann-github] |
-| V    | Análise de Requisitos | Moscow |  [Kayro César][kayro-github] |  [Eduardo Maia][eduardo-github] |
-| V    | Análise de Requisitos | Personas |  [Lorenzo][lorenzo-github] |  [José Luís][jose-github]|
-| V    | Análise de Requisitos | Brainstorming |  [Eduardo Maia][eduardo-github] |  [Lorenzo][lorenzo-github]|
-| V    | Análise de Requisitos | Observação |  [José Luís][jose-github] |  [Klyssmann Oliveira][klyssmann-github] |
-| V    | Análise de Requisitos | Backlog |  [Klyssmann Oliveira][klyssmann-github] | [José Luís][jose-github] |
-| V    | Análise de Requisitos | Introspecção | [José Luís][jose-github]  |  [Kayro César][kayro-github] |
-| V    | Análise de Requisitos | Questionário | [Eduardo Maia][eduardo-github]  |  [Lorenzo][lorenzo-github] |
-| V    | Análise de Requisitos | Especificação Suplementar | [Klyssmann Oliveira][klyssmann-github] |  [Kayro César][kayro-github]   |
-| V    | Análise de Requisitos | Cenários | [Lorenzo][lorenzo-github]  | [José Luís][jose-github]  |
-| V    | Análise de Requisitos | Léxicos |  [Klyssmann Oliveira][klyssmann-github] |  [Eduardo Maia][eduardo-github]  |
+| IV    | Modelagem de Requisitos - Ágil | 5w2h | [José Luís][jose-github] e [Klyssmann Oliveira][klyssmann-github] | [Eduardo Maia][eduardo-github] 
+| V    | Análise de Requisitos | Verificação: 5w2h |  [Eduardo Maia][eduardo-github] |  [Klyssmann Oliveira][klyssmann-github] |
+| V    | Análise de Requisitos | Verificação: Rich Picture |  [José Luís][jose-github] |  [Lorenzo][lorenzo-github] |
+| V    | Análise de Requisitos | Verificação: NFR Framework |  [Kayro César][kayro-github] |  [Klyssmann Oliveira][klyssmann-github] |
+| V    | Análise de Requisitos | Verificação: Moscow |  [Kayro César][kayro-github] |  [Eduardo Maia][eduardo-github] |
+| V    | Análise de Requisitos | Verificação: Personas |  [Lorenzo][lorenzo-github] |  [José Luís][jose-github]|
+| V    | Análise de Requisitos | Verificação: Brainstorming |  [Eduardo Maia][eduardo-github] |  [Lorenzo][lorenzo-github]|
+| V    | Análise de Requisitos | Verificação: Observação |  [José Luís][jose-github] |  [Klyssmann Oliveira][klyssmann-github] |
+| V    | Análise de Requisitos | Verificação: Backlog |  [Klyssmann Oliveira][klyssmann-github] | [José Luís][jose-github] |
+| V    | Análise de Requisitos | Verificação: Introspecção | [José Luís][jose-github]  |  [Kayro César][kayro-github] |
+| V    | Análise de Requisitos | Verificação: Questionário | [Eduardo Maia][eduardo-github]  |  [Lorenzo][lorenzo-github] |
+| V    | Análise de Requisitos | Verificação: Especificação Suplementar | [Klyssmann Oliveira][klyssmann-github] |  [Kayro César][kayro-github]   |
+| V    | Análise de Requisitos | Verificação: Cenários | [Lorenzo][lorenzo-github]  | [José Luís][jose-github]  |
+| V    | Análise de Requisitos | Verificação: Léxicos |  [Klyssmann Oliveira][klyssmann-github] |  [Eduardo Maia][eduardo-github]  |
 | V    | Análise de Requisitos | Prototipação |  [Eduardo Maia][eduardo-github]; [Kayro César][kayro-github] e  [Klyssmann Oliveira][klyssmann-github] |  [Lorenzo][lorenzo-github] e  [José Luís][jose-github] |
 | VI    | Pós-Rastreabilidade | Backward-from | [Lorenzo][lorenzo-github] e [José Luís][jose-github] | [Klyssmann Oliveira][klyssmann-github] |
 | VI    | Pós-Rastreabilidade | Foward-from | [Eduardo Maia][eduardo-github] e  [Kayro César][kayro-github] | [Lorenzo][lorenzo-github] e [José Luís][jose-github] |

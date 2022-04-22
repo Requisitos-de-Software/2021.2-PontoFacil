@@ -14,6 +14,7 @@ nav:
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
+      - Agenda dos integrantes: planejamento/disponibilidade.md
       - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
       - RichPictures: pre_rastreabilidade/rich_pictures.md

@@ -15,6 +15,7 @@ nav:
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
+      - Políticas de repositório: planejamento/politica_rep.md
   - Pré-rastreabilidade:
       - RichPictures: pre_rastreabilidade/rich_pictures.md
       - 5w2h: pre_rastreabilidade/5w2h.md

@@ -8,6 +8,7 @@
 | 02/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 06/03/2022 |  0.2   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 22/04/2022 |  1.1   |    Inclusão de novos léxicos   | [Eduardo Maia](https://github.com/eduardomr)|
 
 
 ## 1. Introdução
@@ -33,6 +34,15 @@
 
 ## 3. Resultados
 
+## Usuário
+| Nome | Usuário |
+| -- | -- |
+| Sinônimos | utilizador, cliente, usufruidor |
+| Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades|
+| Impacto | Trabalhador deseja gerenciar e registrar suas horas de trabalho através do smartphone |
+| Classificação | Objeto |
+
+<br>
 ## Registrar Ponto
 | Nome | Registrar Ponto |
 | -- | -- |

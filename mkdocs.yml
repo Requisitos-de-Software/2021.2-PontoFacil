@@ -14,6 +14,7 @@ nav:
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
+      - Agenda dos integrantes: planejamento/disponibilidade.md
       - Ferramentas: planejamento/ferramentas.md
       - Políticas de repositório: planejamento/politica_rep.md
   - Pré-rastreabilidade:
@@ -75,6 +76,7 @@ nav:
 
   - Análise:
       - Verificação:
+          - Planejamento da Verificação: analise/verificacao/planejamento_verificacao.md
           - Verificação 5w2h: analise/verificacao/ver_5w2h.md
           - Verificação NFR Framework: analise/verificacao/ver_nfr_framework.md
           - Verificação MoSCoW: analise/verificacao/ver_moscow.md
@@ -92,7 +94,8 @@ nav:
       - Validação: analise/validacao/validacao.md
   - Pós-rastreabilidade:
       - Backward-from: pos_rastreabilidade/backward_from.md
-      - Foward-from: pos_rastreabilidade/forward_from.md
+      - Forward-from: pos_rastreabilidade/forward_from.md
+      - EAP: pos_rastreabilidade/eap.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
@@ -109,3 +112,5 @@ nav:
       - Ata 5 - 24/02/2022: atas/24022022.md
       - Ata 6 - 03/03/2022: atas/03032022.md
       - Ata 7 - 10/03/2022: atas/10032022.md
+      - Ata 8 - 24/03/2022: atas/24032022.md
+      - Ata 9 - 31/03/2022: atas/31032022.md

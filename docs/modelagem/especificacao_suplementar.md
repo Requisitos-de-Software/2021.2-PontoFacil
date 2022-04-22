@@ -8,6 +8,12 @@
 | 04/03/2022 |  0.2   | Elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.3   | Adição de imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 04/03/2022 |  0.4   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar)   |
+| 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
+| 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
+| 22/04/2022 |  1.2   |    Implementando rastreabilidade | [José Luís](https://github.com/joseluis-rt) |
+
 
 
 ## 1. Definição
@@ -21,7 +27,7 @@
 &emsp;&emsp;O objetivo desse documento é definir os requisitos do aplicativo Ponto Fácil. Trabalhando ao lado dos "casos de uso" na finalidade de identificar os requisitos do sistema. Explicitar os requisitos não funcionais do sistema é importante para deixar desenvolvedores e stakeholders atualizados quanto aos atributos de qualidade, usabilidade, confiabilidade, desempenho e suportabilidade.
 
 ## 3. Metodologia
-&emsp;&emsp;O FURPS+ como já dito antes é um sistema para a classificação de requisitos, cada caracter representa categorias que podem ser usadas na definição de requisitos, bem como esclarece atributos de Qualidade de Software.
+&emsp;&emsp;O FURPS+ como já dito antes é um sistema para a classificação de requisitos, cada caracter representa categorias que podem ser usadas na definição de requisitos, bem como esclarece atributos de Qualidade de Software. Assim, com base nos documentos elaborados na técnica de elicitação e priorização dos requisitos, obteve-se a elaboração deste documento.
 
 ### 3.1 Participantes
 |Integrantes |
@@ -46,7 +52,7 @@
 
 ### 3.4 R - Reliability (Confiabilidade)
 &emsp;&emsp;Refere-se a integridade, conformidade e interoperabilidade do software como:<br><br>
-&emsp;&emsp;- Freqüência e gravidade de falha<br>
+&emsp;&emsp;- Frequência e gravidade de falha<br>
 &emsp;&emsp;- Possibilidade de recuperação<br>
 &emsp;&emsp;- Possibilidade de previsão<br>
 &emsp;&emsp;- Precisão<br>
@@ -84,9 +90,11 @@
 
 <center>
   
+<figcaption>Figura 1: Modelo FURPS+ resumido</figcaption>
+  
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_resumo.jpg"></p><br>
   
-<figcaption>Imagem 1: Modelo FURPS+ resumido</figcaption>
+<figcaption>Fonte: Elaborado pelo autor</figcaption>
   
 </center>
 
@@ -110,12 +118,12 @@
 
 | Sigla | Requisitos | Tipo de requisito |
 | :------: | :-------: | :--------------:  |
-| F | "O aplicativo deve garantir a segurança dos dados do usuário" | RNF04 |
-| U | "O aplicativo deve ter opções de linguagem (português e inglês)" | RNF01 |
+| F | "O aplicativo deve garantir a segurança dos dados do usuário" | [RNF04](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| U | "O aplicativo deve ter opções de linguagem (português e inglês)" | [RNF01](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 | R | - |
-| P | "O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox" e "O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância" | RNF07 e RNF08 |
-| S | "O Sistema deverá ser acessível por meio de dispositivos móveis" | RNF02 |
-| + | "O aplicativo deve ter opções de tema (claro e escuro)" e "O Sistema deve ter layout compreensível e objetivo" | RNF03 e RNF05 |
+| P | "O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox" e "O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância" | [RNF07](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) e [RNF08](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| S | "O Sistema deverá ser acessível por meio dos dispositivos móveis (IOS, Android)" | [RNF02](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| + | "O aplicativo deve ter opções de tema (claro e escuro)", "O Sistema deve ter layout compreensível e objetivo" e "O aplicativo deve possuir interface acessível e intuitiva"| [RNF03](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/), [RNF05](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) e [RNF06](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 
 <figcaption>Tabela 1: Divisão dos requisitos a partir da metodologia FURPS+</figcaption>
 
@@ -130,9 +138,11 @@
   
 <center>
 
+<figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+  
 <p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/FURPS_grafico.jpg"></p><br>
   
-<figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+<figcaption>Fonte: Elaborado pelo autor</figcaption>
 
 </center>
 
@@ -140,11 +150,11 @@
   
 ## 6. Referências
 
-> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
+>  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
   
-> [2] - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
+> QUALIDADEBR,. FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 4 mar. 2022.
+
+> CIN UFPE. Conceito: Requisitos. [S. l.], 4 jan. 2006. Disponível em: https://www.cin.ufpe.br/~gtarup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html. Acesso em: 4 mar. 2022.
   
-> [3] - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html
-  
-> [4] - https://qualidadebr.wordpress.com/2008/07/10/furps/
+
 

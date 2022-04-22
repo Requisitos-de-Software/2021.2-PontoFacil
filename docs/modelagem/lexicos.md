@@ -7,14 +7,17 @@
 | :-------- | :---- | :--------------------------------------- | :---------------- |
 | 02/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 06/03/2022 |  0.2   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
+| 22/04/2022 |  1.2   |    Inclusão de novos léxicos   | [Eduardo Maia](https://github.com/eduardomr)|
 
 
 ## 1. Introdução
-<div align="justify">&emsp;&emsp; Trata-se de uma técnica que busca descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.</div>
+<div align="justify">&emsp;&emsp; Trata-se de uma técnica que busca descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
 <div align="justify">&emsp;&emsp;<br></div>
 
 ## 2. Metodologia
-<div align="justify">&emsp;&emsp; As atividades associadas ao processo de requisitos podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
+<div align="justify">&emsp;&emsp; As atividades associadas ao processo de requisitos envolveram a leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Os documentos utilizados na elaboração do artefato incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. </div>
 <div align="justify">&emsp;&emsp;<br>O formato utilizado para representação dos léxicos estará de acordo com este modelo:</div>
 
 | Nome | Nome do Léxico |
@@ -30,6 +33,17 @@
 
 <br><br>
 
+## 3. Resultados
+
+## Usuário
+| Nome | Usuário |
+| -- | -- |
+| Sinônimos | utilizador, cliente, usufruidor |
+| Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades|
+| Impacto | Trabalhador deseja gerenciar e registrar suas horas de trabalho através do smartphone |
+| Classificação | Objeto |
+
+<br>
 ## Registrar Ponto
 | Nome | Registrar Ponto |
 | -- | -- |
@@ -135,8 +149,9 @@ Ocorre quando deseja-se verificar as informações sobre a carga horária do tra
 
 
 
-## Referências
+## 4. Referências
 
->  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br><br>
->  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
->  * <a href="https://apps.apple.com/br/app/ponto-f%C3%A1cil-banco-de-horas/id1480598779">Aplicativo PontoFácil</a>
+>  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br>
+
+>  SAYÃO, Miriam. ; CARVALHO, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
+

@@ -5,16 +5,17 @@
 | -- | -- | -- | -- |
 | 04/03/2022 | 0.1 | Criação do documento | [Lorenzo Santos](https://github.com/lorenzo7377) |
 | 06/03/2022 | 0.2 | Revisão | [Klysssmann Oliveira](https://github.com/klyssmannoliveira) |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 ## 1. Introdução
 <p align="justify">&emsp;Cenários são situações imaginários bastante detalhadas que demonstra as pessoas realizando atividades no sistema. Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever
 uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da
 atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e
-avaliar se um produto satisfaz a necessidade dos seus usuários.Sua principal vantagem é o baixo custo quando comparado a outros métodos mais complexos.</p>
+avaliar se um produto satisfaz a necessidade dos seus usuários. Sua principal vantagem é o baixo custo quando comparado a outros métodos mais complexos (BARBOSA; SILVA ,2010).</p>
 
 ## 2. Metodologia
-<p align="justify">&emsp;Para realizarmos essa parte do trabalho, foram inaginadas n situações que o usuário do aplicativo pode encontrar no contidiano. O elementos dos cenários:</p>
+<p align="justify">&emsp;Para realizarmos essa parte do trabalho, foram inaginadas algumas situações que o usuário do aplicativo pode encontrar no contidiano. Também foi realizado com a participação das <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/personas/">personas</a> para a construção do artefato. Assim, os elementos dos cenários foram:</p>
 
 <ul>
   <li>Título</li>

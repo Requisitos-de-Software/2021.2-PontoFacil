@@ -10,6 +10,8 @@
 | 08/03/2022 | 0.3 | Criação da tabela de backlog | [Eduardo Maia](https://github.com/eduardomr) |
 | 09/03/2022 | 0.4 | Criação de links para requisitos | [Eduardo Maia](https://github.com/eduardomr) |
 | 09/03/2022 | 0.5 | Revisão | [José Luís](https://github.com/joseluis-rt) & [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)|
+| 20/04/2022 | 0.6 | Ajuste de links e alteração de nomenclatura de Épicos | [Eduardo Maia](https://github.com/eduardomr) |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia e correções ortográficas   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
@@ -17,24 +19,29 @@
 
 ## 1. Introdução
 <div align="justify">
-   O Backlog do Produto é um artefato  amplo, que comporta as necessidades do produto como um todo. Esse artefato é uma lista que contem todas as funcionalidades desejadas para um determinado produto, ele não precisa estar completo desde o inicio do projeto. Geralmente, é iniciado com aquilo que é mais obvio no primeiro momento e com o passar do tempo ele pode crescer e mudar conforme adquirido s mais conhecimentos acerca do produto e seus usuários.
+   O Backlog do Produto é um artefato  amplo, que comporta as necessidades do produto como um todo. Esse artefato é uma lista que contem todas as funcionalidades desejadas para um determinado produto, ele não precisa estar completo desde o inicio do projeto. Geralmente, é iniciado com aquilo que é mais obvio no primeiro momento e com o passar do tempo ele pode crescer e mudar conforme o conhecimento acerca do produto e seus usuários.
 </div>
 
-## 2. Épicos
+## 2. Metodologia
+<div align="justify">
+  Os autores se reuniram na ferramenta de comunicação <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> onde foram elencados todos os requisitos elaborados no módulo de elicitação de requisitos. Desta forma, os autores elaboraram cada User Stories através dos requisitos e com base na priorização estipulada por documentos. A reunião não foi gravada.
+</div>
+
+## 3. Épicos
 
 <div align="justify">
    Épico é uma história de usuário mais longa, geralmente é grande o suficiente para ser dividido em pequenas histórias de usuário.
 </div>
 
-## 3. Histórias de Usuários
+## 4. User Stories
 
 <div align="justify">
-   Seria uma descrição detalhada de uma necessidade do usuário do produto sob o ponto de vista desse usuário. Geralmente as histórias de usuário estão mais focadas em “O que” e não no “como”.
+   Seria uma descrição detalhada de uma necessidade do usuário do produto sob o ponto de vista desse usuário. Geralmente as user stories estão mais focadas em “O que” e não no “como”.
 </div>
 
 <br>
 
-## 4. Backlog
+## 5. Backlog
 
 <table>
     <thead>
@@ -48,152 +55,152 @@
     <tbody >
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="17"><a href="#epico-01" >Épico 01 -  Gerenciamento de Registros </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US01/" >US01</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us01/" >US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo usuário do sistema,poder registrar o ponto de entrada, para que eu saiba quando iniciei o trabalho.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US02/" >US02</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us02/" >US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, poder registrar o ponto de saída para que eu saiba quando eu saí do trabalho.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US03/" >US03</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us03/" >US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de saída para o almoço para que eu saiba quando eu sai para almoçar.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US04/" >US04</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us04/" >US04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo guardar informações do horário de trabalho para cada dia da semana que eu mantenha os registros organizados e separados.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US05/" >US05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us05/" >US05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo apagar registros passados para que eu possa manter apenas os registros desejados.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US06/" >US06</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us06/" >US06</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo copiar registros passados para que eu possa mover o registro para outro dia.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US08/" >US07</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto de retorno do almoço para que eu saiba quando eu voltei do almoço.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US09/" >US08</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us08/" >US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar o ponto eletrônico através de uma Tag NFC para que eu tenha mais praticidade e agilidade no registro.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US10/" >US09</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us09/" >US09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo zerar o saldo de horas total para que eu possa recomeçar os registros do zero.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US11/" >US10</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us10/" >US10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar falta para que eu saiba quando eu faltei.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US12/" >US11</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us11/" >US11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo adicionar uma foto do registro do ponto para que tenha certeza que registrei o ponto.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US13/" >US12</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us12/" >US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo apagar todos os registros para que eu possa apagar tudo que registrei.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US14/" >US13</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us13/" >US13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar folga para que eu saiba quando eu folguei.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US15/" >US14</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us14/" >US14</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo editar registros passados que possa corrigir erros que cometi.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US16/" >US15</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us15/" >US15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar férias para que eu saiba quando eu entrei de férias.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US17/" >US16</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us16/" >US16</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo escrever uma descrição para cada registro, de forma que possa descrever mais detalhadamente informações sobre o registro.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US18/" >US17</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us17/" >US17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo registrar hora extra para que eu saiba quantas horas extra eu trabalhei.</td>
         </tr>
         <tr>
        </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="#epico-02" >Épico 02 - Backup </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US19/">US18</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us18/">US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar o horário e o dia do backup,para que possa escolher a hora e o dia mais adequado para backup.</td>    
         </tr>
          <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US20/" >US19</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us19/" >US19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo armazenar o backup em contas do Google Drive ou Dropbox, para que eu tenha os meus dados salvos em nuvem.</td>
         </tr>
          <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US21/" >US20</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us20/" >US20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo fazer backup dos meus registros automaticamente em nuvem ou local, para que eu tenha mais de um tipo de cópia de segurança.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US07/" >US21</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us21/" >US21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo restaurar um backup, para que eu possa resgatar registros anteriormente salvos.</td>
         </tr>
         <tr>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="#epico-02" >Épico 03 - Definição de Padrões  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US22/">US22</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="6"><a href="#epico-02" >Épico 03 - Personalização da Aplicação </a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us22/">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar os horários de entrada e saída do dia de acordo com registros do mesmo dia , para que eu possa controlar os horários de acordo com a minha rotina.</td>    
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US23/" >US23</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us23/" >US23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo alterar as opções de intervalo, como por exemplo definir um horário de intervalo mínimo, para que eu possa adaptar os registros de acordo com a minha rotina.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US24/" >US24</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us24/" >US24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar a tolerância da jornada de trabalho, para que eu tenha controle total sobre as horas trabalhadas. </td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US25/" >US25</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us25/" >US25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar as notificações que o aplicativo informa (aviso de horário de entrada, saída, intervalo), para que eu escolha qual é a notificação mais adequada para mim.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US26/" >US26</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us26/" >US26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo configurar a qualidade e resolução da foto armazenada, para que eu possa escolher a qualidade desejada na foto.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US27/" >US27</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us27/" >US27</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo ativar a notificação de alarme , para que eu seja avisado acerca de alguma atividade que devo realizar</td>
         </tr>
         <tr>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="8"><a href="#epico-02" >Épico 04 - Visualização de Registros  </a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US28/">US28</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us28/">US28</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario, desejo visualizar inconsistências no registro de ponto, para que eu possa corrigir os erros no registro de ponto.</td>    
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US29/" >US29</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us29/" >US29</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo visualizar meu banco de horas no período desejado no formato de gráfico de linhas, para que eu tenha noção do volume de horas trabalhadas.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US30/" >US30</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us30/" >US30</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo filtrar os parâmetros do gráfico de linhas, para que eu possa inferir informações mais específicas no gráfico.</td>
         </tr>
          <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US31/" >US31</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us31/" >US31</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo escolher diferentes opções de idiomas, para que eu possa entender as informações apresentadas.</td>
         </tr>
          <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US32/" >US32</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us32/" >US32</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo visualizar meus registros no dia, na semana e no mês, para que eu acompanhe meu volume de horas trabalhadas no período que desejo.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US33/" >US33</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us33/" >US33</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo  consultar meu saldo de horas do dia, para que eu acompanhe meu volume de horas trabalhadas .</td>
         </tr>
          <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US34/" >US34</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us34/" >US34</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo  gerar um extrato dos meus registros de ponto em qualquer período determinado, para que eu possa apresentar ao meu empregador.</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US35/" >US35</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/modelagem/backlog/userstories/us35/" >US35</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário do sistema, desejo consultar o saldo de horas total (do mês), para que eu acompanhe meu volume de horas mensal trabalhadas.</td>
         </tr>
         <tr>
@@ -203,7 +210,7 @@
 
 
 
-## 5. Épicos
+## 6. User Stories por épicos
 
 ### EPICO 01 : 
 <div align="justify">
@@ -232,7 +239,7 @@ Gerenciamento de Registros <br><br> Eu, como usuário gostaria de poder gerencia
 
 ### EPICO 02 :
 <div align="justify"> 
-Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
+Realização de Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados, para que possa manter uma cópia de segurança dos arquivos.
 </div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
@@ -245,7 +252,7 @@ Backup <br><br> Eu, como usuário gostaria de poder fazer backup dos meus dados,
 
 ### EPICO 03 : 
 <div align="justify">
-Definição de Padrões <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
+Personalização da Aplicação <br><br> Eu, como usuário gostaria configurar e personalizar aspectos acerca dos horários e registros, para que possa adaptar as configurações com as minhas necessidades.
 </div>
 
 | US ID| Requisito | Eu,como usuário gostaria de... |Para que...| Prioridade|
@@ -280,13 +287,13 @@ Visualização de Registros <br><br> Eu, como usuário gostaria visualizar meus 
 
 
 
-## 5. Legenda
+## 7. Legenda
 
 RF - Requisito Funcional <br>
 US - User Story<br>
 
-## 6. Referências
+## 8. Referências
 
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15; Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/993631/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf
 ">https://aprender3.unb.br/pluginfile.php/993631/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf
-</a> 
+</a>

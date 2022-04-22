@@ -8,6 +8,8 @@
 | 18/02/2022 |  0.1   | Criação do documento e elaboração do texto |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.2   | Adição de imagens e participantes |  [José Luís](https://github.com/joseluis-rt)   |
 | 18/02/2022 |  0.3   | Revisão |  [Eduardo Maia](https://github.com/eduardomr)   |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 
@@ -20,9 +22,11 @@
 
 ## 2. Metodologia
 
+&emsp;&emsp; Para a eloboração do formulário para o questionário foi utilizado a ferramento <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Google Forms</a>, no qual os integrantes do grupo se reuniram através da ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> e, através da observação participativa, barinstorming e introspecção, as perguntas foram elaboradas para identificar as principais funcionalidades do aplicativo.
+O questionário foi divulgado pelas redes sociais e em grupos de usuários frequentes do aplicativo. Desta forma, através da divulgação e do compartilhamento do questionário, foram obtidas um total de 81 (oitenta e uma) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.</p>
+
 <p align="justify">&emsp;&emsp;Para ter um número satisfatório de dados foi importante evitar questões longas e/ou complexas.
 
-&emsp;&emsp;Através da divulgação e do compartilhamento do questionário, recebemos um total de (81) respostas, alcançando o objetivo que tínhamos com essa técnica e tendo uma boa variedade de respostas para estudo.</p>
   
 | Dados Recolhidos em |
 |-----------------|
@@ -91,12 +95,12 @@
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID LOCAL | Requisito | Tipo de requisito |
-| -- | -- | -- |
-| Q01|  O aplicativo deve garantir a segurança dos dados do usuário | RNF |
-| Q02 | O Sistema deve ter layout compreensível e objetivo| RNF |
-| Q03 | O aplicativo deve possuir interface acessível e intuitiva| RNF |
+| ID LOCAL |ID Geral | Requisito | Tipo de requisito |
+| -- | -- | -- | -- |
+| Q01| RNF04 |  O aplicativo deve garantir a segurança dos dados do usuário | RNF |
+| Q02 | RNF05 | O Sistema deve ter layout compreensível e objetivo| RNF |
+| Q03 | RNF06 |O aplicativo deve possuir interface acessível e intuitiva| RNF |
 
 ## 6. Referências
 
-> [1] - C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016
+> C. E. Vazquez; G.S.Simões,Engenharia de Requisitos: software orientado ao negócio.    Brasport, 2016

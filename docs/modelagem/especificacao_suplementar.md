@@ -12,6 +12,8 @@
 | 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
+| 22/04/2022 |  1.2   |    Implementando rastreabilidade | [José Luís](https://github.com/joseluis-rt) |
+
 
 
 ## 1. Definição
@@ -116,12 +118,12 @@
 
 | Sigla | Requisitos | Tipo de requisito |
 | :------: | :-------: | :--------------:  |
-| F | "O aplicativo deve garantir a segurança dos dados do usuário" | RNF04 |
-| U | "O aplicativo deve ter opções de linguagem (português e inglês)" | RNF01 |
+| F | "O aplicativo deve garantir a segurança dos dados do usuário" | [RNF04](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| U | "O aplicativo deve ter opções de linguagem (português e inglês)" | [RNF01](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 | R | - |
-| P | "O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox" e "O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância" | RNF07 e RNF08 |
-| S | "O Sistema deverá ser acessível por meio dos dispositivos móveis (IOS, Android)" | RNF02 |
-| + | "O aplicativo deve ter opções de tema (claro e escuro)" e "O Sistema deve ter layout compreensível e objetivo" | RNF03 e RNF05 |
+| P | "O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox" e "O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância" | [RNF07](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) e [RNF08](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| S | "O Sistema deverá ser acessível por meio dos dispositivos móveis (IOS, Android)" | [RNF02](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
+| + | "O aplicativo deve ter opções de tema (claro e escuro)", "O Sistema deve ter layout compreensível e objetivo" e "O aplicativo deve possuir interface acessível e intuitiva"| [RNF03](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/), [RNF05](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) e [RNF06](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) |
 
 <figcaption>Tabela 1: Divisão dos requisitos a partir da metodologia FURPS+</figcaption>
 

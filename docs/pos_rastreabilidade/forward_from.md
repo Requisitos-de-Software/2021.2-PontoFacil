@@ -6,6 +6,7 @@
 | -- | -- | -- | -- |
 | 01/04/2022 |  0.1   | Criação do documento e elaboração do texto | [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr) |
 | 03/04/2022 |  0.2   | Revisão |  [José Luís](https://github.com/joseluis-rt) e [Lorenzo Santos](https://github.com/lorenzo7377) |
+| 21/04/2022 |  0.3   | Adição de telas de cada história de usuário |  [Kayro César](https://github.com/kayrocesar)|
 
 
 

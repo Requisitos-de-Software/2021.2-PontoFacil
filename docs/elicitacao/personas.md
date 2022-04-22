@@ -10,6 +10,7 @@
 | 17/02/2022 |  0.4   | Revisão e inserção de imagens |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 17/02/2022 |  0.5   | Ajustes e referências das imagens |  [Klyssmann Oliveira](https://github.com/klyssmannoliveira)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia e inclusão de conclusão | [Eduardo Maia](https://github.com/eduardomr) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 ---
 

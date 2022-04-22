@@ -101,4 +101,4 @@ Para a elaboração deste documento, o autor analisou os documentos e artefatos 
 
 ## 4. Referências
 
-> [1] - Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em <a href=https://www.voitto.com.br/blog/artigo/metodo-moscow target="_blank">https://www.voitto.com.br/blog/artigo/metodo-moscow</a>. Acesso em 14 de fev. 2022
+> BECKER , Alice. Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa. 1 ago. 2020. Disponível em: https://www.voitto.com.br/blog/artigo/metodo-moscow. Acesso em: 16 fev. 2022.

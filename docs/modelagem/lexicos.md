@@ -8,7 +8,8 @@
 | 02/03/2022 |  0.1   | Criação do documento e elaboração do texto |  [Eduardo Maia](https://github.com/eduardomr)   |
 | 06/03/2022 |  0.2   | Revisão do documento |  [Lorenzo Santos](https://github.com/lorenzo7377)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
-| 22/04/2022 |  1.1   |    Inclusão de novos léxicos   | [Eduardo Maia](https://github.com/eduardomr)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
+| 22/04/2022 |  1.2   |    Inclusão de novos léxicos   | [Eduardo Maia](https://github.com/eduardomr)|
 
 
 ## 1. Introdução
@@ -150,8 +151,7 @@ Ocorre quando deseja-se verificar as informações sobre a carga horária do tra
 
 ## 4. Referências
 
->  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br><br>
+>  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br>
 
->  Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
+>  SAYÃO, Miriam. ; CARVALHO, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
 
->  Aplicativo <a href="https://apps.apple.com/br/app/ponto-f%C3%A1cil-banco-de-horas/id1480598779">PontoFácil</a>

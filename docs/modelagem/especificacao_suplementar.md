@@ -11,6 +11,7 @@
 | 19/04/2022 |  0.5   | Correção dispositivos móveis |  [José Luís](https://github.com/joseluis-rt)   |
 | 19/04/2022 |  0.6   | Correção legenda das Imagens |  [José Luís](https://github.com/joseluis-rt)   |
 | 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
+| 21/04/2022 |  1.1   |    Correção das Referências | [Kayro César](https://github.com/kayrocesar) |
 
 
 ## 1. Definição
@@ -147,11 +148,11 @@
   
 ## 6. Referências
 
-> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
+>  SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
   
-> [2] - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
+> QUALIDADEBR,. FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 4 mar. 2022.
+
+> CIN UFPE. Conceito: Requisitos. [S. l.], 4 jan. 2006. Disponível em: https://www.cin.ufpe.br/~gtarup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html. Acesso em: 4 mar. 2022.
   
-> [3] - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html
-  
-> [4] - https://qualidadebr.wordpress.com/2008/07/10/furps/
+
 

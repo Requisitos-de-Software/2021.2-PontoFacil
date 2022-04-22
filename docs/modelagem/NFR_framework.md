@@ -10,6 +10,7 @@
 | 07/03/2022 |  0.4   | Criação dos Diagramas |  [José Luís](https://github.com/joseluis-rt) e [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 08/03/2022 |  0.5   | Revisão do documento |  [Kayro César](https://github.com/kayrocesar) e [Eduardo Maia](https://github.com/eduardomr)|
 | 19/04/2022 |  0.6   | Implementando legendas |  [José Luís](https://github.com/joseluis-rt)|
+| 20/04/2022 |  1.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
@@ -19,11 +20,11 @@
 
 <p style="text-align: justify">Diferentemente das abordagens orientadas à funcionalidade, o NFR Framework usa requisitos não funcionais, como por exemplo a segurança, eficiência, desempenho e custo para conduzir o processo geral de design. O <i>Framework</i> visa colocar os requisitos não funcionais em primeiro lugar na mente do desenvolvedor (CHUNG, 2012). </p>
 
-<p style="text-align: justify"> O <i>Framework</i> utiliza-se de um conceito que não possui um critério de satisfação preciso ou um objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
+<p style="text-align: justify"> Deste maneira, utiliza-se de um conceito que não possui um critério de satisfação preciso ou um objetivo claro para representar um requisito não funcional, chamado de <i>softgoal</i>. Assim, é possível visualizar o funcionamento do <i>NFR Framework</i> através de um SIG (<i>Softgoal Interdependency Graph</i>), que é um gráfico de interdependência entre os <i>softgoals</i> (SILVA, 2019)</p>
 
 ## 2. Metodologia
 
-<p style="text-align: justify"> Por meio do NFR Framework procuramos estabelecer as funcionalidades dos requisitos não-funcionais através da implementação de diagramas e  análises de suas possíveis propagações. Além disso, por meio dos softgoals, que registram as considerações do desenvolvedor a respeito dos softgoals e mostra suas interdependências, conseguimos decompor e organizar os grafos. Os autores se reuniram por meio da ferramenta de comunicação Discord e para realização dos diagramas foi utilizado o Lucidchart. </p>
+<p style="text-align: justify"> Por meio do NFR Framework procuramos estabelecer as funcionalidades dos requisitos não-funcionais através da implementação de diagramas e  análises de suas possíveis propagações. Além disso, por meio dos softgoals, que registram as considerações do desenvolvedor a respeito dos softgoals e mostra suas interdependências, conseguimos decompor e organizar os grafos. Os autores se reuniram por meio da ferramenta de comunicação <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> e para realização dos diagramas foi utilizado o <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Lucidchart</a>. Ademais, para o desenvolvimento do documento os autores simularam a introspecção dos desenvolvedores do aplicativo e participação de um usuário real, Klyssmann de Oliveira, que utiliza o aplicativo para o controle pessoal do banco de horas da empresa onde trabalha.</p>
 
 </br>
 

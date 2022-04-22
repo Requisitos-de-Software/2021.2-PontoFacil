@@ -79,9 +79,8 @@ Para cada requisito estabelecemos uma coluna que especifica quais documentos e t
 | [RNF07](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) | O aplicativo deve ser capaz de armazenar o backup em contas do Google Drive e Dropbox | [Introspecção](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/) | Aplicativo |
 | [RNF08](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/priorizacao/moscow/) | O aplicativo deve ser capaz de calcular o saldo de horas com base no registro do ponto e tolerância | [Introspecção](https://requisitos-de-software.github.io/2021.2-PontoFacil/elicitacao/tecnicas/introspeccao/) | Aplicativo |
 
+## 4. Referências
 
- 
- ## 4. Referências
  
  > SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26.
  

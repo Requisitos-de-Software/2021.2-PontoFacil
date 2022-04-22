@@ -11,6 +11,7 @@
 | 09/03/2022 | 0.4 | Criação de links para requisitos | [Eduardo Maia](https://github.com/eduardomr) |
 | 09/03/2022 | 0.5 | Revisão | [José Luís](https://github.com/joseluis-rt) & [Klyssmann de Oliveira](https://github.com/klyssmannoliveira)|
 | 20/04/2022 | 0.6 | Ajuste de links e alteração de nomenclatura de Épicos | [Eduardo Maia](https://github.com/eduardomr) |
+| 20/04/2022 |  1.0   |    Melhoria da metodologia e correções ortográficas   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 
 
 
@@ -18,16 +19,21 @@
 
 ## 1. Introdução
 <div align="justify">
-   O Backlog do Produto é um artefato  amplo, que comporta as necessidades do produto como um todo. Esse artefato é uma lista que contem todas as funcionalidades desejadas para um determinado produto, ele não precisa estar completo desde o inicio do projeto. Geralmente, é iniciado com aquilo que é mais obvio no primeiro momento e com o passar do tempo ele pode crescer e mudar conforme adquirido s mais conhecimentos acerca do produto e seus usuários.
+   O Backlog do Produto é um artefato  amplo, que comporta as necessidades do produto como um todo. Esse artefato é uma lista que contem todas as funcionalidades desejadas para um determinado produto, ele não precisa estar completo desde o inicio do projeto. Geralmente, é iniciado com aquilo que é mais obvio no primeiro momento e com o passar do tempo ele pode crescer e mudar conforme o conhecimento acerca do produto e seus usuários.
 </div>
 
-## 2. Épicos
+## 2. Metodologia
+<div align="justify">
+  Os autores se reuniram na ferramenta de comunicação <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a> onde foram elencados todos os requisitos elaborados no módulo de elicitação de requisitos. Desta forma, os autores elaboraram cada User Stories através dos requisitos e com base na priorização estipulada por documentos. A reunião não foi gravada.
+</div>
+
+## 3. Épicos
 
 <div align="justify">
    Épico é uma história de usuário mais longa, geralmente é grande o suficiente para ser dividido em pequenas histórias de usuário.
 </div>
 
-## 3. User Stories
+## 4. User Stories
 
 <div align="justify">
    Seria uma descrição detalhada de uma necessidade do usuário do produto sob o ponto de vista desse usuário. Geralmente as user stories estão mais focadas em “O que” e não no “como”.
@@ -35,7 +41,7 @@
 
 <br>
 
-## 4. Backlog
+## 5. Backlog
 
 <table>
     <thead>
@@ -204,7 +210,7 @@
 
 
 
-## 5. Épicos
+## 6. User Stories por épicos
 
 ### EPICO 01 : 
 <div align="justify">
@@ -281,12 +287,12 @@ Visualização de Registros <br><br> Eu, como usuário gostaria visualizar meus 
 
 
 
-## 5. Legenda
+## 7. Legenda
 
 RF - Requisito Funcional <br>
 US - User Story<br>
 
-## 6. Referências
+## 8. Referências
 
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15; Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/993631/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf
 ">https://aprender3.unb.br/pluginfile.php/993631/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf

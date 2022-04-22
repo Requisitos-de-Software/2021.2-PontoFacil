@@ -29,7 +29,7 @@
 
 <figcaption>Figura 1: Mapa de calor do grupo.</figcaption>
   
-<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/Mapa_de_Calor.png"></p><br>
+<p align = "center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-PontoFacil/master/docs/assets/imagens/Mapa_de_Calor.jpg"></p><br>
 
 <figcaption>Fonte: Elaborado pelos autores.</figcaption>
 

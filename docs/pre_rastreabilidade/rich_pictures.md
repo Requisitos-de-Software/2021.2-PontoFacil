@@ -10,6 +10,7 @@
 | 18/02/2022 |  2.1  | Correção de estruturação do documento , inserção de legenda e fonte nas imagens  |  [Kayro César](https://github.com/kayrocesar)|
 | 20/04/2022 |  3.0   |    Melhoria da metodologia   | [Klyssmann Oliveira](https://github.com/klyssmannoliveira)|
 | 21/04/2022 |  3.1   |    Inserção das Referências  | [Kayro César](https://github.com/kayrocesar) |
+| 22/04/2022 |  3.2   |    Inserção do RichPicture versão final  | Todos os integrantes |
 
 ## 1. Introdução
 <p align="justify">
@@ -50,6 +51,14 @@ Um Rich Picture é um desenho que visa representar os principais elementos de um
    ![Rich Picture V2](../assets/imagens/RichPictureV2.png)
 
    <div align="center"><figcaption> Fonte : Elaboração dos autores <figcaption> </div>
+
+### 2.4 RichPicture versão final acerca do fluxo geral de funcionamento do Ponto Fácil 
+
+   <div align="center"><figcaption> Figura 4 -  Rich Picture versão final<figcaption> </div>
+   
+   ![Rich Picture final](../assets/imagens/Richpicture_final.png)
+
+   <div align="center"><figcaption> Fonte : Elaboração do grupo <figcaption> </div>
 
  
 ## 3. Referências

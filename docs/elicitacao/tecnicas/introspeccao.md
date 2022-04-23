@@ -21,7 +21,7 @@
 ## 2. Metodologia
 
 <p style="text-align: justify">
-    O grupo realizou uma reunião no aplicativo <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a>  para a execução da introspecção e também utilizou ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">jamboard</a> , que oferece uma quadro interativo para exposição de ideias. Assim, pode-se realizar a instrospecção com a participação de todos os integrantes que simularam situações onde o usuário poderia fazer. 
+    O grupo realizou uma reunião no aplicativo <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">Discord</a>  para a execução da introspecção e também utilizou ferramenta <a href="https://requisitos-de-software.github.io/2021.2-PontoFacil/planejamento/ferramentas/">jamboard</a>, que oferece uma quadro interativo para exposição de ideias. Assim, pode-se realizar a instrospecção com a participação de todos os integrantes que simularam situações onde o usuário poderia fazer. 
 </p>
 
 

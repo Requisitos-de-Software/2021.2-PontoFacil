@@ -4,9 +4,9 @@
 
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
-| 02/02/2022 | 0.1 | Criação da primeira versão do documento |[Klyssmann Oliveira](https://github.com/klyssmannoliveira) |
-| 03/02/2022 | 0.2 | Criação da política de branchs | [Lorenzo Santos](https://github.com/lorenzo7377)   |
-| 21/04/2022 |  0.3   |    Correção dos nomes e das referências | [Kayro César](https://github.com/kayrocesar) |
+| 02/02/2022 | 0.1 | Criação da primeira versão do documento | [@klyssmannoliveira](https://github.com/klyssmannoliveira) |
+| 03/02/2022 | 0.2 | Criação da política de branchs | [@Lorenzo7377](https://github.com/Lorenzo7377) |
+| 22/04/2022 | 0.3 | Deleção da política de branchs | [@Lorenzo7377](https://github.com/Lorenzo7377) |
 
 
 ## Introdução
@@ -89,37 +89,3 @@
 ```
 git commit -m "#IdIssue - Mensagem"
 ```
-
-## Política de Branchs
-
-<p style='text-align: justify;'> <em>Branchs</em> são ferramentas do Github que servem para permitir a atualização do repositório do trabalho por diferentes pessoas ao mesmo tempo.</p>
-
-<p style='text-align: justify;'>Para poder atualizar os arquivos do repositório, primeiro é necessário clonar a o repositório do grupo usando a chave SSH:</p>
-
-```
-git clone "SSH Key"
-```
-
-<p style='text-align: justify;'>Caso não existam branchs auxiliares para alteração de arquivos, deverá ser criada uma para tal com o seguinte comando:</p>
-
-```
-git checkout -b "Nome da branch entre aspas duplas"
-```
-
-<p style='text-align: justify;'>Após todas mudanças serem feitas, as alterações devem ser adicionadas ao status:</p>
-
-```
-git status
-git add .
-```
-
-<p style='text-align: justify;'>Depois de dado o commit, ele deve ser enviado para o Github por meio do comando:</p>
-
-```
-git push
-```
-
-##  Referências
-
-> SCHWABER, Ken; SUTHERLAND , Jeff. The 2020 Scrum GuideTM. [S. l.], 2 jan. 2020. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 3 fev. 2022.
-
